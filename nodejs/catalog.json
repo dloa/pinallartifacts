@@ -1,0 +1,1676 @@
+- 
+  txid:           67a0164b7ad1ca0c87e837445cec887bab32873c4f90bede6a03a49c83191f09
+  media-data: 
+    alexandria-media: 
+      torrent:   btih:CW35T7WXXRC5RSS4IGDFIZ7CJN4MAUDC
+      publisher: FGrNJay8aQYLxwDf5YtRVRenBbUqM335Cc
+      timestamp: 1424145976
+      type:      song
+      info: 
+        description: Testing Alexandria Media!
+        year:        2000
+        title:       Test
+        extra-info: 
+          runtime: 12000
+      payment: 
+        amount:   100000000
+        currency: FLO
+        type:     tip
+      extras:    
+    signature:        IPUaRu1Pc+7avYPFgYXuzhVpoXOApzk69KGuqtY7gj6pxCCCPv7elnDpzBjegBt1gqCICd9mIRp8GmUYpNGeMbE=
+  block:          1006912
+  publisher-name: Joey
+- 
+  txid:           e3ef38f7303afda7e700dd68947369ad4c88a0c5e0787c1d8505fbf4712aff4c
+  media-data: 
+    alexandria-media: 
+      torrent:   btih:CW35T7WXXRC5RSS4IGDFIZ7CJN4MAUDC
+      publisher: FGrNJay8aQYLxwDf5YtRVRenBbUqM335Cc
+      timestamp: 1424145979
+      type:      song
+      info: 
+        description: This transaction will attempt to make use of the alexandria-media multipart tx-comment protocol! The JSON itself is too large to fit into one tx-comment, so we will split it up into parts and see if it gets verified by Alexandria.
+        year:        2000
+        title:       Multipart-2 test
+        extra-info: 
+          runtime: 12000
+      payment: 
+        amount:   100000000
+        currency: FLO
+        type:     tip
+      extras:    
+    signature:        IFk/7yvrh67b+cHj3BzLb2Vl8urPeIQeZdtXQjzEk+Nwxy++EA3LqWCkZNvTV90NOormvl4ZBag86xCU0GCNbnw=
+  block:          1008479
+  publisher-name: Joey
+- 
+  txid:           fe676baabd04ed997b6d6e906b5d6b55d6acdbee885cf7b52ac42ded72fe279c
+  media-data: 
+    alexandria-media: 
+      torrent:   btih:CW35T7WXXRC5RSS4IGDFIZ7CJN4MAUDC
+      publisher: FGrNJay8aQYLxwDf5YtRVRenBbUqM335Cc
+      timestamp: 1424145979
+      type:      song
+      info: 
+        description: This transaction will attempt to make use of the alexandria-media multipart tx-comment protocol! The JSON itself is too large to fit into one tx-comment, so we will split it up into parts and see if it gets verified by Alexandria.
+        year:        2000
+        title:       Multipart-2 test
+        extra-info: 
+          runtime: 12000
+      payment: 
+        amount:   100000000
+        currency: FLO
+        type:     tip
+      extras:    
+    signature:        IFk/7yvrh67b+cHj3BzLb2Vl8urPeIQeZdtXQjzEk+Nwxy++EA3LqWCkZNvTV90NOormvl4ZBag86xCU0GCNbnw=
+  block:          1008508
+  publisher-name: Joey
+- 
+  txid:           01121d0d5629b46512542bc5fc344a28fa54cb350ae0854a5bbe3388937f27c0
+  media-data: 
+    alexandria-media: 
+      torrent:   btih:CW35T7WXXRC5RSS4IGDFIZ7CJN4MAUDC
+      publisher: FGrNJay8aQYLxwDf5YtRVRenBbUqM335Cc
+      timestamp: 1424145979
+      type:      song
+      info: 
+        description: This transaction will attempt to make use of the alexandria-media multipart tx-comment protocol! The JSON itself is too large to fit into one tx-comment, so we will split it up into parts and see if it gets verified by Alexandria.
+        year:        2000
+        title:       Multipart-2 test
+        extra-info: 
+          runtime: 12000
+      payment: 
+        amount:   100000000
+        currency: FLO
+        type:     tip
+      extras:    
+    signature:        IFk/7yvrh67b+cHj3BzLb2Vl8urPeIQeZdtXQjzEk+Nwxy++EA3LqWCkZNvTV90NOormvl4ZBag86xCU0GCNbnw=
+  block:          1008510
+  publisher-name: Joey
+- 
+  txid:           5f9286f389310057bd6d12ac9b5a8b25ac49b95e6c60c29e256a3ae6b4fea68a
+  media-data: 
+    alexandria-media: 
+      torrent:   btih:CW35T7WXXRC5RSS4IGDFIZ7CJN4MAUDC
+      publisher: FGrNJay8aQYLxwDf5YtRVRenBbUqM335Cc
+      timestamp: 1424145979
+      type:      song
+      info: 
+        description: This transaction will attempt to make use of the alexandria-media multipart tx-comment protocol! The JSON itself is too large to fit into one tx-comment, so we will split it up into parts and see if it gets verified by Alexandria.
+        year:        2000
+        title:       Multipart-2 test
+        extra-info: 
+          runtime: 12000
+      payment: 
+        amount:   100000000
+        currency: FLO
+        type:     tip
+      extras:    
+    signature:        IFk/7yvrh67b+cHj3BzLb2Vl8urPeIQeZdtXQjzEk+Nwxy++EA3LqWCkZNvTV90NOormvl4ZBag86xCU0GCNbnw=
+  block:          1008515
+  publisher-name: Joey
+- 
+  txid:           8d5688251f2eb74ef9979abbf79046a1836e01bb70ce0df1a22ea4c52a0f1e7c
+  media-data: 
+    alexandria-media: 
+      torrent:   btih:CW35T7WXXRC5RSS4IGDFIZ7CJN4MAUDC
+      publisher: FGrNJay8aQYLxwDf5YtRVRenBbUqM335Cc
+      timestamp: 1424145979
+      type:      song
+      info: 
+        description: This transaction will attempt to make use of the POST API.
+        year:        2000
+        title:       POST API test
+        extra-info: 
+          runtime: 12000
+      payment: 
+        amount:   100000000
+        currency: FLO
+        type:     tip
+      extras:    
+    signature:        IFk/7yvrh67b+cHj3BzLb2Vl8urPeIQeZdtXQjzEk+Nwxy++EA3LqWCkZNvTV90NOormvl4ZBag86xCU0GCNbnw=
+  block:          1008535
+  publisher-name: Joey
+- 
+  txid:           5438f509a50166dfd5b50ee61304f4dbf9a60e21630ea95a169a49af52a168c6
+  media-data: 
+    alexandria-media: 
+      torrent:   btih:CW35T7WXXRC5RSS4IGDFIZ7CJN4MAUDC
+      publisher: FGrNJay8aQYLxwDf5YtRVRenBbUqM335Cc
+      timestamp: 1424145979
+      type:      song
+      info: 
+        description: This transaction will attempt to make use of the POST API with Multipart Functionality.
+        year:        2000
+        title:       POST API test (multipart)
+        extra-info: 
+          runtime: 12000
+      payment: 
+        amount:   100000000
+        currency: FLO
+        type:     tip
+      extras:    
+    signature:        IFk/7yvrh67b+cHj3BzLb2Vl8urPeIQeZdtXQjzEk+Nwxy++EA3LqWCkZNvTV90NOormvl4ZBag86xCU0GCNbnw=
+  block:          1008538
+  publisher-name: Joey
+- 
+  txid:           7b1072e190db7e87c157cbb8146751da96bd71e202484979be71c07368990203
+  media-data: 
+    alexandria-media: 
+      torrent:   btih:3BEDB622C03E93CAD5FDF374EDE0EBECA8CFA54E
+      publisher: F7eLfQfs1oG9dkBBJxSG3cWk987iJXXq4C
+      timestamp: 1425851780000
+      type:      video
+      info: 
+        description: L5 is a crowd-funded, independent miniseries project demonstrating how far you can go on a shoestring budget, outside the system and using disruptive innovation to build a film from the ground up.  Please support the filmmakers and make future parts of this great series possible! Donate towards upcoming parts at: http://vodo.net/l5
+        year:        2012
+        title:       L5 Part 1
+        extra-info: 
+          artist:     Vitaliy Kulikov
+          collection: L5
+          company:    VODO
+          filename:   L5.Part.1.2012.720p.x264-VODO.mp4
+          genre:      Science Fiction
+          runtime:    1656
+          tags:       Hard Sci-Fi
+          wwwId:      UOiT8S4J88k
+      payment:   null
+      extras:    
+    signature:        H4VnwwYi7FSzG2WZQ5vqu/XZFUx5wATspq+1Sq/1HVVx9P3D0ozJ6OvCcqF6PMT+JS+xFujjulWrniJ7v9JwYKE=
+  block:          1045631
+  publisher-name: blocktech web
+- 
+  txid:           eac35e2dcffa20b19172ebb8cd99512f02e0b6266bd4804acafe5b5f705e16f0
+  media-data: 
+    alexandria-media: 
+      torrent:   QmU8gm3Ffpt9jcpLEg4sGV7E18TR22Hjg2c5ztsebpDXTy
+      publisher: FCSiyt2oVniXCEJCfotBQQdJ1sLLpJq4fe
+      timestamp: 1432067077000
+      type:      video
+      info: 
+        description: In the 2011 indie cult film Apocalypse CA, the main characters learn that a giant woman is rampaging through Los Angeles by watching a news broadcast on television. Only some parts of the news broadcast is seen in the film. This is the broadcast in it's entirety.
+        year:        2011
+        title:       Apocalypse CA Hidden Scene
+        extra-info: 
+          DHT Hash:        QmU8gm3Ffpt9jcpLEg4sGV7E18TR22Hjg2c5ztsebpDXTy
+          artist:          Chad Peter
+          runtime:         93
+          tags:            Dark comedy, sci-fi, giantess, asteroid
+          company:         NP2k Films
+          Bitcoin Address: 1JHAsHv6uCzZkGu6TZ1aayPV8v7FaygkRy
+          filename:        Apocalypse_CA-Hidden_Scene-360p.mp4
+          pwyw:            5,0
+      payment: 
+        amount:   2,10,50
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H9aikHbcANX/oa0mln1VdZSaG9OidDfribqGCrVWzMCNweZHmtq36pt58EFTiQResfdBclsVf+9eZbJnNQnOoSY=
+  block:          1193498
+  publisher-name: Alexandria Cats
+- 
+  txid:           aab940a3d233b2101ab1aa242da3727cc402a7d192b5af40ac80836aaa60c27f
+  media-data: 
+    alexandria-media: 
+      torrent:   QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj
+      publisher: FTmRrnn3g9trv6WjBvG6r5ueCyey6tU9Ro
+      timestamp: 1432164849000
+      type:      book
+      info: 
+        description: Abstract. A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The network itself requires minimal structure. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.  satoshin@gmx.com www.bitcoin.org
+        year:        2008
+        title:       Bitcoin: A Peer-to-Peer Electronic Cash System
+        extra-info: 
+          DHT Hash:        QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj
+          artist:          Satoshi Nakamoto
+          Bitcoin Address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+          filename:        bitcoin.pdf
+      payment: 
+        amount:   0,0,0
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IMAgFowf8TFdaTLDb3MUwTermXEtuAv6NN/MvQt1nkNWzDSg0KfSSQfF1QnzS75OLzM08J2rTIZXFT2OH0QlaUU=
+  block:          1194848
+  publisher-name: satoshi
+- 
+  txid:           6bbc9930df609f673215393c55c070bb977bdaf7bf6604e8105f87037c3f8a2b
+  media-data: 
+    alexandria-media: 
+      torrent:   QmY4KXsCA1DEix74emacdCDR8TQHd7wieFLR47RQMqWpec
+      publisher: FV5HULcz8ZjQHrMJHwCRqosyLTUKtWzb8x
+      timestamp: 1432246262000
+      type:      music
+      info: 
+        description: Excerpt taken from Primer Solo de Concierto para Clarinete track 4 from Vibraciones del Alma by Maximiliano Martin and Scott Mitchell.
+        year:        2006
+        title:       FLAC audio test
+        extra-info: 
+          DHT Hash:   QmY4KXsCA1DEix74emacdCDR8TQHd7wieFLR47RQMqWpec
+          artist:     Maximiliano Martin and Scott Mitchell
+          runtime:    29
+          tags:       FLAC
+          collection: Primer Solo de Concierto para Clarinete
+          filename:   none
+      payment:   null
+      extras:    
+    signature:        H7oTl3Cn1qz/ZFNLlxZjp+ByFmv0NizT6RbaenTUngrM+OP7/msPzq7mjtd3JqKPfgSfmdONDGPTiZyZImEnF2M=
+  block:          1196301
+  publisher-name: devon
+- 
+  txid:           853f3680dcdaed01e32e372e64879acd8ccde43f3e20baaa250a928dbdca3f49
+  media-data: 
+    alexandria-media: 
+      torrent:   QmbjP9Q7SGFLjzgfYYWKpaafyefn8C9Rm5hYEPnJJr3BVU
+      publisher: FV5HULcz8ZjQHrMJHwCRqosyLTUKtWzb8x
+      timestamp: 1432246570000
+      type:      music
+      info: 
+        description: An unreleased, instrumental only version of The Biddy Bums' Chick-A-Layin'
+        year:        2010
+        title:       Chick-A-Layin' (instrumental)
+        extra-info: 
+          DHT Hash:        QmbjP9Q7SGFLjzgfYYWKpaafyefn8C9Rm5hYEPnJJr3BVU
+          artist:          The Biddy Bums
+          runtime:         286
+          tags:            Instrumental
+          Bitcoin Address: 1JHAsHv6uCzZkGu6TZ1aayPV8v7FaygkRy
+          collection:      Unreleased
+          coverArt:        QmVMZfomMGaxTuLnqn7Qk2spJYHJNcLEuoZeLHVD4hAjLF
+          filename:        none
+      payment: 
+        amount:   2,10,50
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IDdI6uHSm7wNIbDn28GD57zyMma0Ywb9Mx1INvfq3f0qclZ3CwbJEljFR+MgQCNn0kGYfQAQOuHHD5So9M3AAps=
+  block:          1196306
+  publisher-name: devon
+- 
+  txid:           b79974efdd11c23d28a527a884ac7a3f940ab41866bcdcb3a00642c20ada873d
+  media-data: 
+    alexandria-media: 
+      torrent:   QmXibd3yTUwryQ6syd5fpUhM9nXRdn19TZdKQKyPrYQn9F
+      publisher: FV5HULcz8ZjQHrMJHwCRqosyLTUKtWzb8x
+      timestamp: 1432247407000
+      type:      music
+      info: 
+        description: Nine Inch Nails presents Ghosts I - IV, a brand new 36 track instrumental collection available right now. Almost two hours of new music composed and recorded over an intense ten week period last fall, Ghosts I - IV sprawls Nine Inch Nails across a variety of new terrain.
+        year:        2008
+        title:       Ghosts I - Track 2
+        extra-info: 
+          DHT Hash:   QmXibd3yTUwryQ6syd5fpUhM9nXRdn19TZdKQKyPrYQn9F
+          artist:     Nine Inch Nails
+          runtime:    196
+          tags:       Creative Commons, FLAC
+          collection: Ghosts I-IV
+          filename:   02 Ghosts I.flac
+      payment:   null
+      extras:    
+    signature:        H+0VTM6gESjAXRx8cDu66+0V3Ao1t3tvJvNeu+SgjUlPCxwK/zqt8WBQSmRa74VjREOn8SbcTLv7rT+oNs2+qwk=
+  block:          1196326
+  publisher-name: devon
+- 
+  txid:           670249d0a2def189cd99b765ee0aaccd9a83a95102ea002f49b457ca88720437
+  media-data: 
+    alexandria-media: 
+      torrent:   QmU8gm3Ffpt9jcpLEg4sGV7E18TR22Hjg2c5ztsebpDXTy
+      publisher: FV5HULcz8ZjQHrMJHwCRqosyLTUKtWzb8x
+      timestamp: 1432247894000
+      type:      video
+      info: 
+        description: Wry, cynical and full of off-beat humor, 'Apocalypse, CA' is the story of friends as they prepare for certain death at the hands of a massive asteroid, sex-inducing drugs, a three-hundred giant, and a horde of other absurd problems.
+        year:        2010
+        title:       Apocalypse, CA Trailer
+        extra-info: 
+          DHT Hash:        QmU8gm3Ffpt9jcpLEg4sGV7E18TR22Hjg2c5ztsebpDXTy
+          artist:          Chad Peter
+          runtime:         103
+          tags:            Sci Fi, Dark Comedy, Asteroids, Trailer
+          company:         NP2k Films
+          Bitcoin Address: 1JHAsHv6uCzZkGu6TZ1aayPV8v7FaygkRy
+          collection:      Apocalypse CA
+          filename:        Apocalypse_CA-Trailer-720p.mp4
+          posterFrame:     images/Apocalypse_CA-Poster1.jpg
+      payment: 
+        amount:   1,2,10
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H3Hy8Rw9vmvCXb0k1ldCr7DNVVTcKHi6Zb15fwkEEDjW2FOBuwkybbneZoZRZ5+m4AG0wjwKC5IUzyo5aImyi30=
+  block:          1196335
+  publisher-name: devon
+- 
+  txid:           8e5041cef2769deaf51805929cbb9f752d345bc8a3580cacc552b4def6462096
+  media-data: 
+    alexandria-media: 
+      torrent:   Qmd6jZFH7oQddBiWoQt1tgqU9GjUNJLi8hNcVgSApfqxwt
+      publisher: FCSiyt2oVniXCEJCfotBQQdJ1sLLpJq4fe
+      timestamp: 1432248182000
+      type:      video
+      info: 
+        description: Zoe goes for a walk on Venice beach.
+        year:        2009
+        title:       Zoe the cat goes for a walk on the beach, IPFS version
+        extra-info: 
+          DHT Hash:        Qmd6jZFH7oQddBiWoQt1tgqU9GjUNJLi8hNcVgSApfqxwt
+          artist:          ZoeTheCat
+          runtime:         55
+          tags:            Cat videos
+          Bitcoin Address: 1JHAsHv6uCzZkGu6TZ1aayPV8v7FaygkRy
+          collection:      Cat Videos
+          filename:        none
+      payment: 
+        amount:   1,2,5
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IJ3YjLwHCXC4D8j7gQwRfRQXRAFq8xZH3sBhnUlYRPx0zzFi1UWbt2V4Td78e1ikROwndJAckxq7HxHRNl7pHkk=
+  block:          1196343
+  publisher-name: Alexandria Cats
+- 
+  txid:           cc2bf16f8cf667b66613256f207dd12f72760ac5e200b3a714ced68ba69caee4
+  media-data: 
+    alexandria-media: 
+      torrent:   QmUXCddtAQPKV1X2435Py1Q4xwRjhTx8KU2m9fRpbfwHZW
+      publisher: FV5HULcz8ZjQHrMJHwCRqosyLTUKtWzb8x
+      timestamp: 1432248892000
+      type:      video
+      info: 
+        description: Devon describes Project Alexandria to the San Diego Ethereum Meetup Group in April 2014
+        year:        2014
+        title:       Project Alexandria Early 2014 Meetup Discussion
+        extra-info: 
+          DHT Hash:        QmUXCddtAQPKV1X2435Py1Q4xwRjhTx8KU2m9fRpbfwHZW
+          artist:          Devon Read
+          runtime:         227
+          tags:            Meetup, Bitcoin, Crypto, Decentralized Applications, Alexandria
+          company:         Alexandria
+          Bitcoin Address: 1JHAsHv6uCzZkGu6TZ1aayPV8v7FaygkRy
+          collection:      Alexandria
+          wwwId:           4B-QSnQVjwk
+          filename:        none
+      payment: 
+        amount:   1,5,15
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IH1WriLPegCRA6GpXJAnVMkkJuuwrw1AC7XbBwgZx73po9JgF6nxeSu8TqZ90w6hG/vpIbp68MPGjO8/sl3UzD0=
+  block:          1196353
+  publisher-name: devon
+- 
+  txid:           79e2d319b1c1c04406b47486d8ecb5d17fa8767809c66e11aa3b47b054bd4f86
+  media-data: 
+    alexandria-media: 
+      torrent:   QmWcYPAUyCmLivS55AQSABaDz5SurW7GYzK1bHALenfmzg
+      publisher: F8yKd7w6NNE22xBjvL6o2zQEJ9i1wgh3vs
+      timestamp: 1432341520000
+      type:      music
+      info: 
+        description: A great track from San Diego indie rockers The Biddy Bums
+        year:        2006
+        title:       Mississippi
+        extra-info: 
+          DHT Hash:        QmWcYPAUyCmLivS55AQSABaDz5SurW7GYzK1bHALenfmzg
+          artist:          The Biddy Bums
+          runtime:         273
+          Bitcoin Address: 1JHAsHv6uCzZkGu6TZ1aayPV8v7FaygkRy
+          collection:      On the Verge and In the Moment
+          coverArt:        album-art.jpg
+          filename:        07 Mississippi.flac
+      payment: 
+        amount:   5,25,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IIgrSEVcQEEpd8c+ag9SgFhIgTXz4iu+YbOp7d0DUgKAdcxG1cK58SK7mt9n320Ih/NanMdYxxwrTaRLC39XG84=
+  block:          1198122
+  publisher-name: On The Verge
+- 
+  txid:           e1628f2d4dddc648ff40827096a2110ef8aecb712ec56a7239933260b4e203e5
+  media-data: 
+    alexandria-media: 
+      torrent:   QmbcYnfSxy54Q79CDLsfdvY8JYSeQNg3xFmzYSDStpQjwy
+      publisher: F8raYs9SmFm9ncvCFMcyCJCU1DiYwE2SN5
+      timestamp: 1432852109000
+      type:      thing
+      info: 
+        description: 3D printable object of ALEXANDRIA's original bookmark logo.
+        year:        2015
+        title:       Alexandria Bookmark Logo
+        extra-info: 
+          DHT Hash:        QmbcYnfSxy54Q79CDLsfdvY8JYSeQNg3xFmzYSDStpQjwy
+          artist:          Ryan Jordan
+          creators2:       Gregor Jeric
+          tags:            3D, CC, ALEXANDRIA
+          company:         Blocktech
+          Bitcoin Address: 1H8nks9tqv5jwwadxoJMYXv7GT6z9MRLCn
+          coverArt:        Qme7jL4Fxvv66GPNvg5hNKzeugfTrYuGADzPZjKEjsGNib
+          filename:        none
+      payment: 
+        amount:   1,10,25
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H3/xBP7ae7xGAQNsLLEAi7KLiZLlZxi/Pxye1jQVv5bNSAVSFBWRknAyjfeUJZjtRvJ8TIVLHOum359GQxK0IQU=
+  block:          1208484
+  publisher-name: ryanjordan
+- 
+  txid:           3704ccfa4c06eae05db5df6ea63b26d1e324b7540526a9f3d7aa15defba99573
+  media-data: 
+    alexandria-media: 
+      torrent:   QmcQez4YCDZoP5RPPe1ReVE1cbVQ2s2amwe8q9tVapPK6a
+      publisher: F8raYs9SmFm9ncvCFMcyCJCU1DiYwE2SN5
+      timestamp: 1432969119000
+      type:      recipe
+      info: 
+        description: Frozen dessert made from sparkling white wine, sugar, citrus zest, grapefruit juice, and lemon juice.
+        year:        2015
+        title:       Champagne Sorbet
+        extra-info: 
+          DHT Hash:        QmcQez4YCDZoP5RPPe1ReVE1cbVQ2s2amwe8q9tVapPK6a
+          artist:          Ryan Jordan
+          runtime:         1
+          tags:            dessert, frozen
+          Bitcoin Address: 1H8nks9tqv5jwwadxoJMYXv7GT6z9MRLCn
+          filename:        none
+      payment: 
+        amount:   1,10,25
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IJF+WS/FvVTMO6IND2zipur4M1C75HxJI8uO7tQHBM2trQxh6pOvR3yCBT4WP7C5t3wCVJ5UedYkXA7q+Op4gYE=
+  block:          1210382
+  publisher-name: ryanjordan
+- 
+  txid:           2baefc00bbe5d4dcb25dc7270105208de69c8a67ede58c634cbb1683e7c6d6b8
+  media-data: 
+    alexandria-media: 
+      torrent:   QmQAiBJsYmsPbnnDKNVdTebWQHnkK9ieyrRhNds6Dudy3K
+      publisher: FB2h62qtDpGuag7BAzwvuFwmRZUiVPhnv5
+      timestamp: 1434335483000
+      type:      video
+      info: 
+        description: Seth King presents the importance of using free open source software for everyone who is concerned with privacy and security. Recorded at PorcFest XI 2014
+        year:        2014
+        title:       Free Software is for Freedom Lovers
+        extra-info: 
+          DHT Hash:        QmQAiBJsYmsPbnnDKNVdTebWQHnkK9ieyrRhNds6Dudy3K
+          artist:          FreeStateProjectNH
+          runtime:         3473
+          Bitcoin Address: 1J4vD5SwbfwbVRxjnNVFwy7UKcRATn2o5b
+          wwwId:           5fu2Uvybgbk
+          filename:        free-software-is-for-freedom-lovers.mp4
+      payment: 
+        amount:   25,50,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IKBgcRTbwiadr0p3T5ntVTe2xlxRfhGcbvRK/hXWiF0D+58eQ+4edImWEad/jeacwNYn7ZHfoX1sRRNa5B0OXjE=
+  block:          1230591
+  publisher-name: Copernicus Mogley
+- 
+  txid:           d0cfe6fb6b771d13945066af9255896074836a61790e30143c289802d03f2c8a
+  media-data: 
+    alexandria-media: 
+      torrent:   QmUbsjbjkRu41JqiyAhq61inUpDSB8uMHsTkdtbHg2jYmv
+      publisher: FB3xogZKJHrceiARrZJ5psLtf4VvEpu2qH
+      timestamp: 1434410348000
+      type:      video
+      info: 
+        description: Alexandria is a decentralized, open-source, peer-to-peer library for sharing and preserving art, history and culture. Learn more at www.blocktech.com
+        year:        2015
+        title:       Alexandria Intro and Walkthrough (v0.4.0 alpha)
+        extra-info: 
+          DHT Hash:        QmUbsjbjkRu41JqiyAhq61inUpDSB8uMHsTkdtbHg2jYmv
+          artist:          Blockchain Technology Group
+          runtime:         639
+          tags:            Alexandria, DApp, Blockchain technology, Bitcoin
+          company:         Blockchain Technology Group
+          Bitcoin Address: 1LTJeMqhyg4QfrGJ1BBEvoDpWUFxXmLN11
+          collection:      Alexandria Info
+          wwwId:           z_u-ndscZjY
+          filename:        none
+      payment: 
+        amount:   2,50,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        HzpC/l96ILZs8y4dbUjmjMwC5l9QFJowJDtEby8N1aehlOswzzlTbMgUPB3vHXSj9sQ569xyIJVhawHYsvfzYr0=
+  block:          1231487
+  publisher-name: alexandria info
+- 
+  txid:           df2dd2a417c9761a69d489a1c32216ae24b8cba0fb0b2dffbfea8c244b86ec23
+  media-data: 
+    alexandria-media: 
+      torrent:   QmTbymmshF66z6hW8RTj2AyxtH32pVkMAyhNmjfyVhfUav
+      publisher: FB3xogZKJHrceiARrZJ5psLtf4VvEpu2qH
+      timestamp: 1434472288000
+      type:      video
+      info: 
+        description: Speaking at the San Francisco Bitcoin Meetup, Blocktech's CEO, Devon Read speaks about how P2P technologies can empower everyone on the planet.
+        year:        2015
+        title:       Blockchain and P2P Technologies Empower Everyone
+        extra-info: 
+          DHT Hash:        QmTbymmshF66z6hW8RTj2AyxtH32pVkMAyhNmjfyVhfUav
+          artist:          Blockchain Technology Group
+          runtime:         1708
+          tags:            Blockchain, P2P, DApp, Decentralized Applications, Bitcoin, BTC, Florincoin, Cryptocurrency
+          company:         Blockchain Technology Group
+          Bitcoin Address: 1LTJeMqhyg4QfrGJ1BBEvoDpWUFxXmLN11
+          collection:      Alexandria Info
+          wwwId:           ecFtxpklx9M
+          filename:        none
+      payment: 
+        amount:   2,25,50
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H/cZ9qMHmhr67kYaC7QeA7SLXRYwzZvN18lHE+XiMkc3EWxkoGUzZvsd15W8KJ7YdffYHYdPkk/iwfTxEEwOXqs=
+  block:          1232211
+  publisher-name: alexandria info
+- 
+  txid:           4389c952e28e34df464d3e7f4a6ddc3ca61211ae2d5101f7fef3c213045675b5
+  media-data: 
+    alexandria-media: 
+      torrent:   123
+      publisher: FMBMKcV9fY8G8iahwTAYzMg4jqrbAEc7ED
+      timestamp: 1434491749000
+      type:      book
+      info: 
+        description: test
+        year:        1999
+        title:       test
+        extra-info: 
+          DHT Hash:   123
+          artist:     test
+          creators2:  test
+          tags:       test
+          collection: test
+          coverArt:   test
+          filename:   test
+          pwyw:       0,0
+      payment: 
+        amount:   0,0,0
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IKwd7D3rKZjW6IUem5KkxaQoh6g2mXpG9yEMJaoVFJTBJJ7GCQ1lya/y91K+3u9EPupxwSm5DIwxBX4D1LUUdik=
+  block:          1232440
+  publisher-name: ruby32
+- 
+  txid:           3b4df23afdf3a188c66831fe78e24d3f1a637b74093539a6c06c7257e03f77fb
+  media-data: 
+    alexandria-media: 
+      torrent:   QmXisADJd6DSt96MXbvDp6ZWFiRGdH2YeFGQ7XkVFLeMdk
+      publisher: FV5HULcz8ZjQHrMJHwCRqosyLTUKtWzb8x
+      timestamp: 1434500370000
+      type:      video
+      info: 
+        description: Based in Venice, California, Happy Owl Studio strives to consistently offer cutting-edge, innovative products that elegantly combine style and function. The company's first products, The Wallet and The Clutch received great praise and reviews, and were dubbed The World's chicest iPad case by Newsweek.com.
+        year:        2011
+        title:       Im the Clutch part 1 Introduction
+        extra-info: 
+          DHT Hash:        QmXisADJd6DSt96MXbvDp6ZWFiRGdH2YeFGQ7XkVFLeMdk
+          artist:          Amy Elizabeth
+          runtime:         61
+          company:         Happy Owl Studio
+          Bitcoin Address: 1FhSxVCmkQix9SzwREin2fzEnXyCnsiH15
+          collection:      Im the Clutch Spoof Series
+          wwwId:           rRScE_DHYJs
+          filename:        none
+      payment: 
+        amount:   25,50,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IOM6JoHFweSAtznov6mYkdiVKWkz59m2IAnMEzBJM8vzFCO+oMmKx32Geg8g4rPAgmYhZqhf9sirBIpP0vBK2jE=
+  block:          1232483
+  publisher-name: devon
+- 
+  txid:           bec1cca62f09fcfffb5beb5fd0ac896e9f2a90d61064023e5bd8219011b4e790
+  media-data: 
+    alexandria-media: 
+      torrent:   QmZuzH88Pt4X9PNdzd19V5qp1cYVpvsjehGW2tktaDLkPR
+      publisher: FAWG6HR6PazunVqjJhBoTdtuFxKrHB5YGU
+      timestamp: 1434863620000
+      type:      music
+      info: 
+        description: License -- CC-by-sa  An Alexandria exclusive... 
+        year:        2015
+        title:       light another prod. Inconexia
+        extra-info: 
+          DHT Hash:        QmZuzH88Pt4X9PNdzd19V5qp1cYVpvsjehGW2tktaDLkPR
+          artist:          kendama gendale
+          runtime:         158
+          tags:            kendama, gendale, the shining, fivel, ts eliot, j alfred prufrock, christian mingle
+          company:         GENDALE Entertainment
+          Bitcoin Address: 3P6JnKYznqPc2TtXrhWBTJeS7q3UnQx6vi
+          collection:      trenchrun
+          coverArt:        bathroomy.png
+          filename:        lightanother.ogg
+      payment:   null
+      extras:    
+    signature:        IHDC1wWxVf7cX1B1kcGzsYMHdJ8aQ4DYIAVwroTzruduhp5hoHS+lfDXQBjfbcon4n6miVYWvW3pYGynKRJkN/Y=
+  block:          1237756
+  publisher-name: Kendama Gendale
+- 
+  txid:           d3bba7c183f2a427d2b154463196b79f454e41d1050cdc732712f4c94b80eff7
+  media-data: 
+    alexandria-media: 
+      torrent:   QmbXzUMiCZMAb3FiCunDABbapLkBcgWu5dGGvMTHoad977
+      publisher: F9qPvwjRTQ2ZwEhSn37frKoBE8U7dF2Vqd
+      timestamp: 1434868476000
+      type:      video
+      info: 
+        description: The world's first Ugandan action movie  A mafia leader's brother is captured in a shootout, prompting a revenge attack on the army camp. But when troop leader Captain Alex is killed during a raid, a violent war escalates between the two sides.   This is the Director's Supa Cut of Who Killed Captain Alex, featuring English subtitles and the world's first English-language Video Joker. Worldwide release date: March, 2015. 
+        year:        2015
+        title:       Who Killed Captain Alex
+        extra-info: 
+          DHT Hash:    QmbXzUMiCZMAb3FiCunDABbapLkBcgWu5dGGvMTHoad977
+          artist:      Wakaliwood
+          runtime:     4114
+          tags:        uganda, who, killed, captain, alex, wakaliwood, action
+          company:     Ramon Film Productions
+          filename:    captainalexENGLISH.mp4
+          posterFrame: captainalexPOSTER.jpg
+      payment: 
+        amount:   10,100,1000
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H9FlrPB0kbBtCjH+2fAPPTyL+K++nAttKonIKBGSdpRExseGwOyfcmxWEeBfrTnvNb8OxCveD/HHNWhNEqlWSr4=
+  block:          1237830
+  publisher-name: Wakaliwood
+- 
+  txid:           101b56eb5f2a939c283b3749a7d99984decd2199af73859890b5b018daeb5e87
+  media-data: 
+    alexandria-media: 
+      torrent:   QmQMx79Vqt9PnQEaZEjrf3MmLbWbwH6w2EvF7U4j2xVRYQ
+      publisher: FMRNXEQTBfqntxhwmXPJ1iQjEbUENPrYkZ
+      timestamp: 1435643147000
+      type:      video
+      info: 
+        description: Johnny Flynton 2002 Directed by Lexi Alexander Starring Dash Mihok and Michele Matheson Nominated for Best Live Action Short Film 2003 Oscars
+        year:        2002
+        title:       Johnny Flynton
+        extra-info: 
+          DHT Hash:        QmQMx79Vqt9PnQEaZEjrf3MmLbWbwH6w2EvF7U4j2xVRYQ
+          artist:          Lexi Alexander
+          runtime:         2281
+          tags:            johnny, flynton, lexi, alexander, gendale, entertainment, oscar, academy, award
+          company:         Gendale
+          Bitcoin Address: 1C4DgBMuiGEXoDFCThNESt1QDaUM11bMSy
+          filename:        johnnyflynton.mp4
+      payment: 
+        amount:   10,100,1000
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H/KK1YA97bfHUPoJl7e3UEBro5GxkJuoe8XPHZPSOr2clYR0zI31EeVitmGeTM6S/hAAK6VPvBX7wJQlXRiGxJo=
+  block:          1248681
+  publisher-name: Lexi Alexander
+- 
+  txid:           3aa4eb7ff7190ce7a2cacff5d54a70a3f3cf41548282fde287ca01e1844e1f74
+  media-data: 
+    alexandria-media: 
+      torrent:   QmZorHqGwwVU9UCrwP82dzDyvTTBLpu94BmXpHfRGCKs2S 
+      publisher: F6afA6ciE7cUbnENej7HU4aisYHBV9UZ7P
+      timestamp: 1435704524000
+      type:      video
+      info: 
+        description: A video demonstrating the capabilities of a well-trained K9!
+        year:        2015
+        title:       A Will To Bite
+        extra-info: 
+          DHT Hash:        QmZorHqGwwVU9UCrwP82dzDyvTTBLpu94BmXpHfRGCKs2S 
+          artist:          Devine K9s
+          runtime:         120
+          tags:            dogs
+          company:         Devine K9s
+          Bitcoin Address: 1QEgewyf1xE5BQqpjpXnRT3PvBDA4BpqYf
+          filename:        willtobite_720_nocredits.mp4
+          posterFrame:     thumbnail.png
+      payment: 
+        amount:   0,0,0
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IDYkcqTXSbGAyTgBYRpcMkcFQIpcTykia9ngdY5wBsH36071ubZ/PvUQSYcHREXKwlg8RRIL+ppYqN78Euopgdc=
+  block:          1249651
+  publisher-name: Alan
+- 
+  txid:           32f02efc5133fc15f3756eabdc581b4a8f13811f38724738fa5517b94d7ca51e
+  media-data: 
+    alexandria-media: 
+      torrent:   QmWKYk6Npr55RpaDsd6TqrWz5mdg8PX5i8wecMBu2kvgPB
+      publisher: FRmeTSS3eU6rkrwtLfzvpMRB3H5u3teBiy
+      timestamp: 1435911055000
+      type:      music
+      info: 
+        description: Electronic version of old acoustic version
+        year:        2014
+        title:       Cant Follow
+        extra-info: 
+          DHT Hash:        QmWKYk6Npr55RpaDsd6TqrWz5mdg8PX5i8wecMBu2kvgPB
+          artist:          Brady Mckenna
+          runtime:         276
+          tags:            Alternative, Rock
+          Bitcoin Address: 1KhXpuPAhWBCvFs5k3sHoJwjZLsvuiR21c
+          filename:        Cant Follow.wav
+      payment: 
+        amount:   50,100,200
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IM8cuwKRZVKSa0qaXw1Rps5dhvkUn3nXDQA3NtB+iNnG+HVKFxOZbKqIPVQSZoVCELYFKR1Q+Gtkp5OFoC+MVq4=
+  block:          1253330
+  publisher-name: Dual Minds Publishing
+- 
+  txid:           a4afb246163ebc99441f623b43b7bebec9b9d6d97178f8bfb649dd152be72b6d
+  media-data: 
+    alexandria-media: 
+      torrent:   QmWKYk6Npr55RpaDsd6TqrWz5mdg8PX5i8wecMBu2kvgPB
+      publisher: FRmeTSS3eU6rkrwtLfzvpMRB3H5u3teBiy
+      timestamp: 1435912062000
+      type:      music
+      info: 
+        description: Final production for up coming video
+        year:        2015
+        title:       One In The Same
+        extra-info: 
+          DHT Hash:        QmWKYk6Npr55RpaDsd6TqrWz5mdg8PX5i8wecMBu2kvgPB
+          artist:          Brady McKenna
+          runtime:         260
+          tags:            Acoustic, Rock, Alternative
+          Bitcoin Address: 1KhXpuPAhWBCvFs5k3sHoJwjZLsvuiR21c
+          filename:        One in the same.wav
+      payment: 
+        amount:   50,100,200
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        INDeaBPBE/xFRzUkGasYnz9A8swPOlynYtxkJd7WzLEJTQL8KpBr7eiK2RgMiLsKRNpyp8WIefcemsmdnyolnnc=
+  block:          1253352
+  publisher-name: Dual Minds Publishing
+- 
+  txid:           8dbd470b78760b89533400c06d50e17c7f88e852766d49d8a9970a2f23fcca0b
+  media-data: 
+    alexandria-media: 
+      torrent:   QmWKYk6Npr55RpaDsd6TqrWz5mdg8PX5i8wecMBu2kvgPB
+      publisher: FRmeTSS3eU6rkrwtLfzvpMRB3H5u3teBiy
+      timestamp: 1435912262000
+      type:      music
+      info: 
+        description: Jazz/blues style acoustic rock
+        year:        2015
+        title:       Shake It Out
+        extra-info: 
+          DHT Hash:        QmWKYk6Npr55RpaDsd6TqrWz5mdg8PX5i8wecMBu2kvgPB
+          artist:          Brady McKenna
+          runtime:         342
+          tags:            Acoustic, Rock
+          Bitcoin Address: 1KhXpuPAhWBCvFs5k3sHoJwjZLsvuiR21c
+          filename:        Shake it out.mp3
+      payment: 
+        amount:   50,100,200
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IKLiUtAYk3ptecByfi5wLz00MLA6ebb5NVbCYgkEqabOueP6CYFpVo/igjb9wDMlifRk0c8/ufMkHmYOaiDRSCc=
+  block:          1253358
+  publisher-name: Dual Minds Publishing
+- 
+  txid:           27d03bda0c6bf7d8c073850544f6e5f847d586ab88e7a9716f6a6a491db22b62
+  media-data: 
+    alexandria-media: 
+      torrent:   QmWKYk6Npr55RpaDsd6TqrWz5mdg8PX5i8wecMBu2kvgPB
+      publisher: FRmeTSS3eU6rkrwtLfzvpMRB3H5u3teBiy
+      timestamp: 1435912515000
+      type:      music
+      info: 
+        description: Experimental Ableton work in Rock style
+        year:        2013
+        title:       Dr J and Mr H
+        extra-info: 
+          DHT Hash:        QmWKYk6Npr55RpaDsd6TqrWz5mdg8PX5i8wecMBu2kvgPB
+          artist:          Brady McKenna
+          runtime:         209
+          tags:            Experimental, Rock
+          Bitcoin Address: 1KhXpuPAhWBCvFs5k3sHoJwjZLsvuiR21c
+          filename:        Dr J and Mr H.wav
+      payment: 
+        amount:   50,100,200
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        II7wYwr+ub7/ATgSAZYV58szVLhT36lqZAJvYPCa8bJkzYrzb873QfWuMUror7mLocHDZy/GuhaBGMfBmUIFh6k=
+  block:          1253365
+  publisher-name: Dual Minds Publishing
+- 
+  txid:           e00487847f65a7308361370dc5f279f5e96b3e85efb5bc22069946324eb817f4
+  media-data: 
+    alexandria-media: 
+      torrent:   QmXnHgLfkUUki5q6aohCCsmu5ZTQmnyctACEdgkAzrswoE
+      publisher: FRE43pYpMRu3RmLHBr1wfE9RPsSvFGnScQ
+      timestamp: 1436317843000
+      type:      movie
+      info: 
+        description: Surfer Magazine and Dakine present a Chris Gabriel film. Sibling surfers have long inspired the history of surfing, from great Hawaiian legends Michael and Derek Ho to todays prodigy hot shots the Irons, Lopez and Hobgood brothers. Many wonder what kindles the fire beneath each renowned duo.  Is it just brotherly love... is it competitive jealousy... or is it a little of both?
+        year:        2005
+        title:       Last Name First
+        extra-info: 
+          DHT Hash:        QmXnHgLfkUUki5q6aohCCsmu5ZTQmnyctACEdgkAzrswoE
+          artist:          Chris Gabriel
+          runtime:         2909
+          tags:            Surf movie, documentary, surfing brothers
+          company:         CGFilms
+          Bitcoin Address: 1ADCp4LQVRzUDn7qRpo6brwh6K3yvCtAhH
+          filename:        LastNameFirst.m4v
+      payment: 
+        amount:   5,25,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H6uF+EW7FadIrvzDhpSG+qxuT4fexEtTuEnChmm//opchlCrGLjenxwYJAiQ4q0fWPk1Nsg81hJCLQoE1CrAfz0=
+  block:          1261074
+  publisher-name: CGFilms
+- 
+  txid:           311b50cd73f80878c3b782143f188d5caf984600554e7a236b8a5f2f0348310b
+  media-data: 
+    alexandria-media: 
+      torrent:   QmQMx79Vqt9PnQEaZEjrf3MmLbWbwH6w2EvF7U4j2xVRYQ
+      publisher: FMRNXEQTBfqntxhwmXPJ1iQjEbUENPrYkZ
+      timestamp: 1436422695000
+      type:      movie
+      info: 
+        description: Johnny Flynton is good at one thing: boxing. He's not too bright, and there's clearly some issues in his past, but what's worse, when he's boxing, his temper flares up. His wife, Samantha, tells him she's pregnant. Meanwhile, he's got an exhibition match with local boy Artie Duane. Johnny lets him get a few punches in to look good, but when Artie starts taking cheap shots, Johnny can't stand by and overreacts. He runs home, where he's in high spirits, but that proves his downfall.  Licensed CCbyncnd
+        year:        2002
+        title:       Johnny Flynton
+        extra-info: 
+          DHT Hash:        QmQMx79Vqt9PnQEaZEjrf3MmLbWbwH6w2EvF7U4j2xVRYQ
+          artist:          Lexi Alexander
+          runtime:         2281
+          creators2:       Lexi Alexander,  Fabian Marquez
+          tags:            Johnny, Flynton, Lexi, Alexander, Gendale, Entertainment, Boxing, Dash, Mihok, Michele Matheson
+          RottenTom:       http://www.rottentomatoes.com/m/johnny_flynton/
+          Bitcoin Address: 1C4DgBMuiGEXoDFCThNESt1QDaUM11bMSy
+          wwwId:           tt0329245
+          filename:        johnnyflynton.mp4
+      payment: 
+        amount:   10,100,1000
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H2CNFfakHFd40OYIWQ7qJilgvbLXeKtzmkQ5ei+yx0A2GQzHue1r57VYUMfrg69rLqdtHoTvDekpIBdrxSqNbUI=
+  block:          1262929
+  publisher-name: Lexi Alexander
+- 
+  txid:           3c970cfd079fbed2c5178d8f8a0f7ebb80c2e625aa393c215b8ea48e58e65cb9
+  media-data: 
+    alexandria-media: 
+      torrent:   QmbXzUMiCZMAb3FiCunDABbapLkBcgWu5dGGvMTHoad977
+      publisher: F9qPvwjRTQ2ZwEhSn37frKoBE8U7dF2Vqd
+      timestamp: 1436426840000
+      type:      movie
+      info: 
+        description: The world's first Ugandan action movie  A mafia leader's brother is captured in a shootout, prompting a revenge attack on the army camp. But when troop leader Captain Alex is killed during a raid, a violent war escalates between the two sides.   This is the Director's Supa Cut of Who Killed Captain Alex, featuring English subtitles and the world's first English-language Video Joker. Worldwide release date: March, 2015. 
+        year:        2015
+        title:       Who Killed Captain Alex
+        extra-info: 
+          DHT Hash:        QmbXzUMiCZMAb3FiCunDABbapLkBcgWu5dGGvMTHoad977
+          artist:          Nabwana I.G.G.
+          runtime:         4114
+          trailer:         captainalexTRAILER.mp4
+          creators2:       Nabwana I.G.G.
+          tags:            wakaliwood, ugana, who, killed, captain, alex
+          company:         Ramon Film Productions
+          poster:          captainalexPOSTER.jpg
+          Bitcoin Address: 1Ckk6mhQew2NVX1piCBWuPZLFP5a4oNsJg
+          wwwId:           http://www.imdb.com/title/tt1813757/
+          filename:        captainalexENGLISH.mp4
+          posterFrame:     unclebenon.jpg
+      payment:   null
+      extras:    
+    signature:        INx5vKYyQ8Y4cWAP/bTu7E7jc/FWwvLw+wVXzjSlj/AuDT1ChzMiBGDXAWt/4s3mMCQpmh6AAUl+FkXF79Av40o=
+  block:          1262992
+  publisher-name: Wakaliwood
+- 
+  txid:           be0602fce37f8a35fe0227fb88d4bf827a21b14909c508bf9fcd7c8d9cf8671c
+  media-data: 
+    alexandria-media: 
+      torrent:   QmQkWhNPzb7nhdTJZCiDPFNSTiEDg34EKc3sE7c2dA7J7x
+      publisher: FV5HULcz8ZjQHrMJHwCRqosyLTUKtWzb8x
+      timestamp: 1436818140000
+      type:      video
+      info: 
+        description: 10mbs test of 4K video streaming
+        year:        2015
+        title:       Union Square Timelapse in 4K
+        extra-info: 
+          DHT Hash:        QmQkWhNPzb7nhdTJZCiDPFNSTiEDg34EKc3sE7c2dA7J7x
+          artist:          Owen Morris
+          runtime:         20
+          tags:            4k 10mbs
+          Bitcoin Address: 1JgyjN2FMbEMoxkMZY9zrb9NP699SrGGrf
+          collection:      4K Streaming Tests
+          filename:        UnionSquare_TL1_10mbps.mp4
+      payment: 
+        amount:   5,10,25
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H8Y9omUeeOpHT9nPg7NorK7wCT68t+RXSIx6b+yvTY53dYbwj8Si0s/2iwhrxscB2orw1KBWnmG+pb86bTZ2tzw=
+  block:          1271595
+  publisher-name: devon
+- 
+  txid:           11dc6e46392ed96c92a42570662040b52c95ad7263245ee891c622fe679716f6
+  media-data: 
+    alexandria-media: 
+      torrent:   QmR83Li1Yd174ybk2NfbYV8DhPeR8JL57QPDmDVfLTvyVg
+      publisher: FV5HULcz8ZjQHrMJHwCRqosyLTUKtWzb8x
+      timestamp: 1436820745000
+      type:      video
+      info: 
+        description: 8mbs 4k streaming test
+        year:        2015
+        title:       4K Timelapse Streaming test
+        extra-info: 
+          DHT Hash:        QmR83Li1Yd174ybk2NfbYV8DhPeR8JL57QPDmDVfLTvyVg
+          artist:          Owen Morris
+          runtime:         25
+          Bitcoin Address: 1JHAsHv6uCzZkGu6TZ1aayPV8v7FaygkRy
+          filename:        TwinPeaks_1_8mbps.mp4
+      payment: 
+        amount:   5,10,25
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H6fJL9GRZsa+Cg+wEhDLMRlMhSBBEZFD7zxlWgyPRSWrGqYXW+pEWtuovc3CnTxuBXIb7/iL/ClCNrRUx5BC41I=
+  block:          1271647
+  publisher-name: devon
+- 
+  txid:           c2f512f71052555f133cb9e1d58371496b6928df90c1bafbb699468c63095221
+  media-data: 
+    alexandria-media: 
+      torrent:   QmU8gm3Ffpt9jcpLEg4sGV7E18TR22Hjg2c5ztsebpDXTy
+      publisher: FF85vSYbc3ZTPHnAPduifKnxAevkfmL6V8
+      timestamp: 1437351454000
+      type:      movie
+      info: 
+        description: Wry, cynical and full of off-beat humor, `Apocalypse, CA` is the story of friends as they prepare for certain death at the hands of a massive asteroid, sex-inducing drugs, a three-hundred foot giant, and a horde of other absurd problems.
+        year:        2011
+        title:       Apocalypse CA
+        extra-info: 
+          pwyw:            250,1
+          DHT Hash:        QmU8gm3Ffpt9jcpLEg4sGV7E18TR22Hjg2c5ztsebpDXTy
+          artist:          Chad Peter
+          runtime:         5226
+          trailer:         Apocalypse_CA-Trailer-720p.mp4
+          creators2:       Chad Peter
+          tags:            Welcome to the rodeo.
+          company:         SDNP Films
+          poster:          images/Apocalypse_CA-Poster2.jpg
+          RottenTom:       771266582
+          Bitcoin Address: 1JHAsHv6uCzZkGu6TZ1aayPV8v7FaygkRy
+          wwwId:           tt1273193
+          filename:        Apocalypse_CA-Movie-720p.mp4
+          posterFrame:     images/Apocalypse_CA-Trailer_Poster_Frame.png
+      payment: 
+        amount:   2,25,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H8/SpwGYO3ni1lDzhSf867FrSoG0k7I1p5y2oUh4KeaBhOYMJmU5Tf3Yy8TDNN+6/Zz7Mw04cCkbLruQwBRxfJQ=
+  block:          1284478
+  publisher-name: blocktech1
+- 
+  txid:           57f6dd84afefa1e263e086ec290b1307e9a4df46afa3642c30a7f80e59f54523
+  media-data: 
+    alexandria-media: 
+      torrent:   QmcH6zTCMFuczQZaEnvfuF46W16aSPWwxjziXXySuvCsxr
+      publisher: FLY7WJBQJHNcWBqZKUSY45VePpSZ8HtBTD
+      timestamp: 1437686093000
+      type:      music
+      info: 
+        description: Tide Souls
+        year:        2003
+        title:       Tide Souls
+        extra-info: 
+          track11:         11 Fishin'.mp3
+          track13:         13 Mississippi River.mp3
+          DHT Hash:        QmcH6zTCMFuczQZaEnvfuF46W16aSPWwxjziXXySuvCsxr
+          track12:         12 H.A.P.P.Y.mp3
+          track04:         04 Yesterday on the Rocks.mp3
+          artist:          The Biddy Bums
+          runtime:         3399
+          track03:         03 Pedal to the Metal.mp3
+          tags:            Tide Souls
+          track10:         10 Snow White.mp3
+          track02:         02 Offbeat Skipping.mp3
+          track09:         09 chick-a-lay'n.mp3
+          Bitcoin Address: 1N2EWefmiE4Eky3VHmeek12TyjzyYRT7L9
+          collection:      Tide Souls
+          track08:         08 Ikea.mp3
+          track05:         05 I Digress.mp3
+          coverArt:        album-art.jpg
+          track06:         06 Lady J.mp3
+          track14:         14 We'll cut you a check.mp3
+          filename:        01 Seen Heard Cursed Blessed.mp3
+          track07:         07 D.J. Day.mp3
+      payment: 
+        amount:   100,200,300
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IMHjAoRCyNKbCgASFHHjSlDXKepYVGNWqLX+njhda/QOIayXYuzI+ISq+q/mu/Z8cNSWyRzjmcYs65yMModf0RU=
+  block:          1289512
+  publisher-name: The Biddy Bums
+- 
+  txid:           5dd1370becf4685c91e8be590279b6e22c7f091a15a027c530925918ee8867b8
+  media-data: 
+    alexandria-media: 
+      torrent:   Qmeke1CyonqgKErvGhE18WLBuhrLaScbpSAS6vGLuoSCXM
+      publisher: FLY7WJBQJHNcWBqZKUSY45VePpSZ8HtBTD
+      timestamp: 1437691434000
+      type:      music
+      info: 
+        description: On the Verge and In the Moment
+        year:        2005
+        title:       On the Verge and In the Moment
+        extra-info: 
+          track11:         320bit_mp3/11 Bluelight and Chik-a-Layin.mp3
+          DHT Hash:        Qmeke1CyonqgKErvGhE18WLBuhrLaScbpSAS6vGLuoSCXM
+          track04:         320bit_mp3/04 Offbeat.mp3
+          artist:          The Biddy Bums
+          runtime:         3436
+          track03:         320bit_mp3/03 Snow White.mp3
+          tags:            On the Verge and In the Moment
+          track10:         320bit_mp3/10 Lady J.mp3
+          track02:         320bit_mp3/02 I Digress.mp3
+          track09:         320bit_mp3/09 Farewell Problems.mp3
+          Bitcoin Address: 1N2EWefmiE4Eky3VHmeek12TyjzyYRT7L9
+          collection:      On the Verge and In the Moment
+          track08:         320bit_mp3/08 Mississippi.mp3
+          track05:         320bit_mp3/05 Mrs. D'Veau.mp3
+          coverArt:        album-art.jpg
+          track06:         320bit_mp3/06 Shit Yeah.mp3
+          filename:        320bit_mp3/01 DJ Day.mp3
+          track07:         320bit_mp3/07 HAPPY.mp3
+      payment: 
+        amount:   2,10,25
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IAy9H5KZbR92YC23UcLrXXoDNxNUosY3Q0rBQsocLogITi2d/y4lhg71jpvG54St7keBJNf2oiZanWIaZdmPw+g=
+  block:          1289623
+  publisher-name: The Biddy Bums
+- 
+  txid:           97b582fa10a1f8be602cf8b17e39d4f2d83f1c635d22ba6f852415ddb49c9b1a
+  media-data: 
+    alexandria-media: 
+      torrent:   QmQMx79Vqt9PnQEaZEjrf3MmLbWbwH6w2EvF7U4j2xVRYQ
+      publisher: FMRNXEQTBfqntxhwmXPJ1iQjEbUENPrYkZ
+      timestamp: 1439341809000
+      type:      movie
+      info: 
+        description: On the verge of a title shot, an up and coming boxer from a small town in the deep south falls victim to tragic circumstances when he is forced to fight an unranked boxer in a local exhibition match.  Licensed CCbyncnd
+        year:        2002
+        title:       Johnny Flynton
+        extra-info: 
+          DHT Hash:        QmQMx79Vqt9PnQEaZEjrf3MmLbWbwH6w2EvF7U4j2xVRYQ
+          artist:          Lexi Alexander
+          runtime:         2281
+          creators2:       Lexi Alexander, Fabian Marquez
+          tags:            johnny, flynton, lexi, alexander, gendale, entertainment, oscar, academy, award, dash, mihok, michele, matheson, robert, hill, boxing, rocky
+          Bitcoin Address: 1C4DgBMuiGEXoDFCThNESt1QDaUM11bMSy
+          wwwId:           tt0329245
+          filename:        johnnyflynton.mp4
+      payment: 
+        amount:   10,100,1000
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        HzOAN9I1cHIUaauVkOfBF67ThMJ1rzWuKwyiBz6czs5xhpyE+3Uip4TjHpXgSIiMVEpZLsTZ9448JB/BRpbRo6U=
+  block:          1321834
+  publisher-name: Lexi Alexander
+- 
+  txid:           0c32c7ebfc70638da6b9369856eec1fce0d5d1ff986fe4e84b9b7e15fb64ab37
+  media-data: 
+    alexandria-media: 
+      torrent:   QmdaoYNcwaTew4qBRyx6Grm6tbBQQD8cDA2WPuyD2pCUD2
+      publisher: FDZiqywiGXpy2F3Fcdue1beBTQxLvaNAhL
+      timestamp: 1443648767000
+      type:      music
+      info: 
+        description: Grasp, 2007.
+        year:        2007
+        title:       Grasp
+        extra-info: 
+          DHT Hash:   QmdaoYNcwaTew4qBRyx6Grm6tbBQQD8cDA2WPuyD2pCUD2
+          artist:     De Qualia
+          track02:    Number Slumber.mp3
+          company:    end fence
+          collection: Grasp
+          filename:   Grasp.mp3
+      payment:   null
+      extras:    
+    signature:        IIUsNefAp8Bbk7N8JA9Nkyx1F/bjTI7cBWzR4HlzUnHc3F+t2EGhlrklwhcvxhtBBW4P76k2eYVLx/r7SSnmHSM=
+  block:          1392376
+  publisher-name: end fence
+- 
+  txid:           04f5c6340b468e154771eaddb8e43660691f2062f999082716da552620bb1e86
+  media-data: 
+    alexandria-media: 
+      torrent:   QmdaoYNcwaTew4qBRyx6Grm6tbBQQD8cDA2WPuyD2pCUD2
+      publisher: FDZiqywiGXpy2F3Fcdue1beBTQxLvaNAhL
+      timestamp: 1443648772000
+      type:      music
+      info: 
+        description: Grasp, 2007.
+        year:        2007
+        title:       Grasp
+        extra-info: 
+          DHT Hash:   QmdaoYNcwaTew4qBRyx6Grm6tbBQQD8cDA2WPuyD2pCUD2
+          artist:     De Qualia
+          track02:    Number Slumber.mp3
+          company:    end fence
+          collection: Grasp
+          filename:   Grasp.mp3
+      payment:   null
+      extras:    
+    signature:        H1sSFoJziKrtXuV+5emIkiL0yTAVzLyeJLs+J3v/c52Xp8cy79WRmr/x9/32iAuvtDZyxLxL64HgGCWNUczW9Uc=
+  block:          1392377
+  publisher-name: end fence
+- 
+  txid:           b9618dbd07df8feff1dcf26ebacd9777ee2dad3c571b6811394f99af138f7d1e
+  media-data: 
+    alexandria-media: 
+      torrent:   QmdaoYNcwaTew4qBRyx6Grm6tbBQQD8cDA2WPuyD2pCUD2
+      publisher: FDZiqywiGXpy2F3Fcdue1beBTQxLvaNAhL
+      timestamp: 1443648778000
+      type:      music
+      info: 
+        description: Grasp, 2007.
+        year:        2007
+        title:       Grasp
+        extra-info: 
+          DHT Hash:   QmdaoYNcwaTew4qBRyx6Grm6tbBQQD8cDA2WPuyD2pCUD2
+          artist:     De Qualia
+          track02:    Number Slumber.mp3
+          company:    end fence
+          collection: Grasp
+          filename:   Grasp.mp3
+      payment:   null
+      extras:    
+    signature:        IL6bcpAtmj90rL4FSrcjuJVo3VaXkAB9aecrQN36ftWkcsTv3x31Y2XvPZZFB3hUi7PazRXBA1dwSifBPUOUiVQ=
+  block:          1393136
+  publisher-name: end fence
+- 
+  txid:           048bff9ec5ab073e63779685fb5c0ee0fa37d709e488e3d380b949d9dd856a12
+  media-data: 
+    alexandria-media: 
+      torrent:   QmZVxewtGhtXG28fSBx7vUYCJiKdJWF2vW6rrEAuTUSP7b
+      publisher: FAiWWyUEuXkxo7oQLWfD3oTWkHM6eu5JJH
+      timestamp: 1443939079000
+      type:      music
+      info: 
+        description: Tiny Human ISRCGBJPX1500151 Tiny Human (instrumental) ISRCGBJPX1500152 Published by Megaphonic Publishing Record label - Megaphonic Records copyright 2015 for information on use of sync please contact Info@imogenheap.com
+        year:        2015
+        title:       Tiny Human
+        extra-info: 
+          DHT Hash:        QmZVxewtGhtXG28fSBx7vUYCJiKdJWF2vW6rrEAuTUSP7b
+          artist:          Imogen Heap
+          runtime:         260
+          tags:            Mycelia, Sennheiser
+          track02:         Imogen Heap - Tiny Human.flac
+          company:         Megaphonic Records
+          Bitcoin Address: 16diWTDN8DUxsX994WzyNAotVp36qBqXku
+          collection:      Tiny Human
+          coverArt:        Imogen Heap - Tiny Human cover.jpg
+          filename:        Imogen Heap - Tiny Human.mp3
+          pwyw:            2,1
+      payment: 
+        amount:   2,25,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H98wuBM8i6ZEvh4XMtA2YHBg6z3ndV9pPBGeprKe7T1HSLjAIJQh5hAEbuAbd5wxL3+eSBAebEB9T1EUnzlkNJY=
+  block:          1398174
+  publisher-name: Imogen Heap
+- 
+  txid:           62a63b3b59b3f5fc786ad05a37af656c88507ae959f53c233520b755aaa8a841
+  media-data: 
+    alexandria-media: 
+      torrent:   QmcZVwZ5RGamnaxwgB8ZUE9WCjG1nU9rEaDNV5wy9jJP3S
+      publisher: FAiWWyUEuXkxo7oQLWfD3oTWkHM6eu5JJH
+      timestamp: 1444032978000
+      type:      video
+      info: 
+        description: Tiny Human ISRCGBJPX1500151 Tiny Human (instrumental) ISRCGBJPX1500152 Published by Megaphonic Publishing Record label - Megaphonic Records copyright 2015 for information on use of sync please contact Info@imogenheap.com
+        year:        2015
+        title:       Tiny Human Music Video
+        extra-info: 
+          DHT Hash:        QmcZVwZ5RGamnaxwgB8ZUE9WCjG1nU9rEaDNV5wy9jJP3S
+          artist:          Imogen Heap
+          runtime:         261
+          tags:            Mycelia, Sennheiser, Music Videos
+          company:         Megaphonic Records
+          Bitcoin Address: 16diWTDN8DUxsX994WzyNAotVp36qBqXku
+          collection:      Tiny Human
+          filename:        Imogen Heap - Tiny Human Video-H264 720P web.m4v
+          posterFrame:     Imogen Heap - Tiny-Human-Video-poster-frame.jpg
+      payment: 
+        amount:   2,50,200
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        HxzC3DclNtMAT+S0cLqqPCMJMsJEfwB2DKQrllvIgpa5EwYSQokG5eDtbvV8j51aousz1yxXYrc1Ob+B5gxU4ms=
+  block:          1400090
+  publisher-name: Imogen Heap
+- 
+  txid:           7c8badd2732d06ae7daf84c8d8b513123a4b0643287e04e80761df669aae8088
+  media-data: 
+    alexandria-media: 
+      torrent:   QmdJekV4KTf4c4McLTeMSfjHatQWpF2UdXPJgbiZxiGhr5
+      publisher: FJnX4qdCAchNKV279QLvJRKS9tSftayCDR
+      timestamp: 1444292303000
+      type:      thing
+      info: 
+        description: none
+        year:        2015
+        title:       brer-id test01
+        extra-info: 
+          DHT Hash:   QmdJekV4KTf4c4McLTeMSfjHatQWpF2UdXPJgbiZxiGhr5
+          artist:     none
+          creators2:  none
+          tags:       brer
+          company:    none
+          collection: brer
+          coverArt:   QmUrpWzgtd4hh4neuFpMM2SEpBESydFTMgfRxQB74v1pLT
+          filename:   brer-id.md
+      payment: 
+        amount:   1,50,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IIZxBW8fW0ie/RtnDJx0agQCQ8e1VwyvO5cHSP2JfbpsR48gfG6sVcFWk1z1cqxpfqLJEslWgXtqo+nOBYe/dPA=
+  block:          1405898
+  publisher-name: brer test
+- 
+  txid:           217191155b4aa4c822fb6e7e37e5d652ba82465003c712a53bbd58480e27f8e2
+  media-data: 
+    alexandria-media: 
+      torrent:   QmdJekV4KTf4c4McLTeMSfjHatQWpF2UdXPJgbiZxiGhr5
+      publisher: FJnX4qdCAchNKV279QLvJRKS9tSftayCDR
+      timestamp: 1444292888000
+      type:      thing
+      info: 
+        description: U0lHTjozMDQ1MDIyMTAwZjI2YzlhMTc0MDYxNThjYzFiZmIyMjQ4MjNkOWE4MzYwOTlkNGJmNjgxOWI4NDVkYjZjN2E1Y2EzNTdjMTY5MDAyMjA0NGE5MTRkZTA1YTc5MGFiZGUzZDAyMTM4MWFhY2JiY2NlNjVjMGY0NDZjODIxOWRjYmRlNDY2NGM3MTYyNzI4OjpQVUJLRVk6MDQ4OTEyODZkZDVjNDIxM2ExM2Y3NDY1NjY0ZGE0N2RhYjJmYTkzYTkwOWE3NTdiZWMyNmZiODdkZTA3MjgxN2JmMDg3NzkzYzM0MTkwMTQ0MDAwNzA0MTA3ZDU1NzMzN2ZkNGMwMGJmM2M3ZjZjMDQ4MGU3MDhmY2UwMTY1MWI0Njo6Q09OVEVOVDp7IklEIjpbeyJOQU1FIjoiSk9IQU4gUEFVTFNTT04iLCJIRUlHSFQiOiIxNjYgQ00iLCJCT1JOIjoiMTk3ODAzMjkiLCJGQU1JTFktMSI6IkJKw5ZSTiBQQVVMU1NPTiIsIkZBTUlMWS0yIjoiSk9BS0lNIFBBVUxTU09OIiwiRkFNSUxZLTMiOiJGUkVEUklLIFBBVUxTU09OIiwiRkFNSUxZLTQiOiIifV19DQp0cmFuc2FjdGlvbiBpZCA2NzcyMTI0NDIxNjE1NTMwMjENCmhhc2g6IDBlY2JjZWRiOGNjMjRkNTdhYjc0MTllMmU1N2QzYzI5ZjA1MmZhYmUxNTBhMmY0OTk2OGU2N2NjMjZlNDgwMjM=
+        year:        2015
+        title:       brer-id test02
+        extra-info: 
+          DHT Hash:   QmdJekV4KTf4c4McLTeMSfjHatQWpF2UdXPJgbiZxiGhr5
+          artist:     none
+          creators2:  none
+          tags:       brer
+          company:    none
+          collection: brer
+          coverArt:   QmUrpWzgtd4hh4neuFpMM2SEpBESydFTMgfRxQB74v1pLT
+          filename:   brer-id.md
+      payment: 
+        amount:   1,10,50
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IPsTQtoXZyxVzCm9uyBXwb4YXDKim0XRrIZOmgmAgsM4QdV2BRdqPtWMVOAjYX2f4cmfJCYu7ZljKu8WRIq71b4=
+  block:          1405914
+  publisher-name: brer test
+- 
+  txid:           3058e0dc0b7f0ecf7e50bc8bf1aefa34a771068339d40877aa8dd1c42c0656b8
+  media-data: 
+    alexandria-media: 
+      torrent:   QmdJekV4KTf4c4McLTeMSfjHatQWpF2UdXPJgbiZxiGhr5
+      publisher: FJnX4qdCAchNKV279QLvJRKS9tSftayCDR
+      timestamp: 1444293185000
+      type:      thing
+      info: 
+        description: U0lHTjozMDQ1MDIyMTAwZjI2YzlhMTc0MDYxNThjYzFiZmIyMjQ4MjNkOWE4MzYwOTlkNGJmNjgxOWI4NDVkYjZjN2E1Y2EzNTdjMTY5MDAyMjA0NGE5MTRkZTA1YTc5MGFiZGUzZDAyMTM4MWFhY2JiY2NlNjVjMGY0NDZjODIxOWRjYmRlNDY2NGM3MTYyNzI4OjpQVUJLRVk6MDQ4OTEyODZkZDVjNDIxM2ExM2Y3NDY1NjY0ZGE0N2RhYjJmYTkzYTkwOWE3NTdiZWMyNmZiODdkZTA3MjgxN2JmMDg3NzkzYzM0MTkwMTQ0MDAwNzA0MTA3ZDU1NzMzN2ZkNGMwMGJmM2M3ZjZjMDQ4MGU3MDhmY2UwMTY1MWI0Njo6Q09OVEVOVDp7IklEIjpbeyJOQU1FIjoiSk9IQU4gUEFVTFNTT04iLCJIRUlHSFQiOiIxNjYgQ00iLCJCT1JOIjoiMTk3ODAzMjkiLCJGQU1JTFktMSI6IkJKw5ZSTiBQQVVMU1NPTiIsIkZBTUlMWS0yIjoiSk9BS0lNIFBBVUxTU09OIiwiRkFNSUxZLTMiOiJGUkVEUklLIFBBVUxTU09OIiwiRkFNSUxZLTQiOiIifV19DQp0cmFuc2FjdGlvbiBpZCA2NzcyMTI0NDIxNjE1NTMwMjENCmhhc2g6IDBlY2JjZWRiOGNjMjRkNTdhYjc0MTllMmU1N2QzYzI5ZjA1MmZhYmUxNTBhMmY0OTk2OGU2N2NjMjZlNDgwMjM=
+        year:        2015
+        title:       brer-id test03
+        extra-info: 
+          DHT Hash:   QmdJekV4KTf4c4McLTeMSfjHatQWpF2UdXPJgbiZxiGhr5
+          artist:     none
+          creators2:  none
+          tags:       brer
+          company:    none
+          collection: brer
+          coverArt:   QmVCDre6o4jMZ9DFF5VtzDSKjboKY4qhfg6hj95p99houU
+          filename:   brer-id.md
+      payment: 
+        amount:   1,25,50
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IHO1IjS8ZsPpX2fR+cyAt/rS0VTasRPJAh1WGUASWUbQ1NeO/b/MD5Ctv8ApmsCDgcWp8VTYsWOddZE9jWs8dLo=
+  block:          1405915
+  publisher-name: brer test
+- 
+  txid:           e5d7ac0506a8a66c5a167e0dbe829f5652b9b1f79f73b651d9928d04f29c1004
+  media-data: 
+    alexandria-media: 
+      torrent:   QmSAgetCh7PPgiNwTVDrMRZDc5EM6u8gT5eyDxXYYSibf6
+      publisher: FAiWWyUEuXkxo7oQLWfD3oTWkHM6eu5JJH
+      timestamp: 1445412474000
+      type:      music
+      info: 
+        description: Tiny Human ISRCGBJPX1500151 Tiny Human (instrumental) ISRCGBJPX1500152 Published by Megaphonic Publishing Record label - Megaphonic Records copyright 2015 for information on use of sync please contact Info@imogenheap.com
+        year:        2015
+        title:       Tiny Music - Instrument Stems
+        extra-info: 
+          track07:         Tiny Human Stems - Vocals.wav
+          DHT Hash:        QmSAgetCh7PPgiNwTVDrMRZDc5EM6u8gT5eyDxXYYSibf6
+          track04:         Tiny Human Stems - Strings.wav
+          artist:          Imogen Heap
+          runtime:         260
+          track03:         Tiny Human Stems - Drums.wav
+          tags:            Imogen Heap, Tiny Human, Mycelia
+          track02:         Tiny Human Stems - Brass.wav
+          company:         Megaphonic Records
+          Bitcoin Address: 16diWTDN8DUxsX994WzyNAotVp36qBqXku
+          collection:      Tiny Human
+          track05:         Tiny Human Stems - Synths.wav
+          coverArt:        Imogen Heap - Tiny Human cover.jpg
+          track06:         Tiny Human Stems - Tuned Percussion.wav
+          filename:        Tiny Human Stems - Bass.wav
+          pwyw:            7.3,7.5
+      payment: 
+        amount:   1,2,5
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        H2O+DAwF8wP+0aKAxLMYUJuRwcEQEzXgIxPr7wfZw6eisfQt8X8lKy95Uk+Ss+qjxoezIlPtkskFxM2pdB4eyFk=
+  block:          1428058
+  publisher-name: Imogen Heap
+- 
+  txid:           c8573c999b2d62abb03dc4ba3552ac1287ddf5c8e91d3b8c3dadadfc30b6656b
+  media-data: 
+    alexandria-media: 
+      torrent:   QmNr7wdyEHTEFrFgCBsDTKPMwj4PHKAYbjMz5Md5hvQPeq
+      publisher: FFMTJRVgx8VRKVS7pURwUL1Y9UZ9yHVibo
+      timestamp: 1445496015000
+      type:      thing
+      info: 
+        description: Butterfly Drawing
+        year:        2015
+        title:       Butterfly
+        extra-info: 
+          DHT Hash:        QmNr7wdyEHTEFrFgCBsDTKPMwj4PHKAYbjMz5Md5hvQPeq
+          artist:          Yaeri
+          creators2:       Saturn
+          tags:            Butterfly
+          company:         Katy
+          Bitcoin Address: 13h4bp9sBeUNd6M4ZJtQ1WHS2WXGAkB79e
+          collection:      Photo
+          filename:        Butterfly.jpg
+      payment:   null
+      extras:    
+    signature:        H82BtIdh9Em9xPhx9KZBFioM3UY4yS8Sfbl16bqZUNBJBiriOx/ecj4rgoHdgI/TwDt4kEWSLe+KPfzICFzEJSQ=
+  block:          1430020
+  publisher-name: Yaeri
+- 
+  txid:           f99891f03497db3f0879dffc8bbed9de502ca02abe96fab59366c7441ac700a0
+  media-data: 
+    alexandria-media: 
+      torrent:   QmVDxpAKuHMBfUTxGj8ZfKuC3bc4Bs4raGREQZGD7nqcVe
+      publisher: FFMTJRVgx8VRKVS7pURwUL1Y9UZ9yHVibo
+      timestamp: 1445497191000
+      type:      thing
+      info: 
+        description: Flower Drawing
+        year:        2015
+        title:       Flower
+        extra-info: 
+          DHT Hash:        QmVDxpAKuHMBfUTxGj8ZfKuC3bc4Bs4raGREQZGD7nqcVe
+          artist:          Yaeri
+          creators2:       Saturn
+          tags:            Flower
+          company:         Katy
+          Bitcoin Address: 3AkG54XMdrMUybPNG8WdisauQLLumgkb7W
+          collection:      Photo
+          filename:        Flower.jpg
+      payment: 
+        amount:   50,20,10
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        ILYIUpob4D93hSmPX+K+M0LdFV3HlzNc81ur5z6ZFwgPHwKpRN4CbFhH2dZRre5h+VFelP4gRe73ll9XHMxmog0=
+  block:          1430053
+  publisher-name: Yaeri
+- 
+  txid:           54dccb5918a637fce5d486c28dd1f8d359c736b208fefb575f96cdce8903ed9a
+  media-data: 
+    alexandria-media: 
+      torrent:   QmeNExHccREgjFbVzHC9voMefs3rtQJCf2gacWks3MLQiH
+      publisher: F8yKd7w6NNE22xBjvL6o2zQEJ9i1wgh3vs
+      timestamp: 1445921602000
+      type:      video
+      info: 
+        description: Bluelight Live Performance in San Diego, CA
+        year:        2004
+        title:       Bluelight Live Performance
+        extra-info: 
+          DHT Hash:        QmeNExHccREgjFbVzHC9voMefs3rtQJCf2gacWks3MLQiH
+          artist:          The Biddy Bums
+          runtime:         395
+          tags:            On the Verge and In the Moment
+          company:         Hot Bone Records
+          Bitcoin Address: 1N2EWefmiE4Eky3VHmeek12TyjzyYRT7L9
+          wwwId:           _gp4OpTXYAw
+          filename:        none
+      payment: 
+        amount:   5,25,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IHXaWAHdq+Z8nx8wokjqdTXYLTK6Qi/0w1TVNhGkeVX7BkAT3mdb+SPorzi5WVXG122nD5H9hkQ+9BaeqsJfcTA=
+  block:          1439971
+  publisher-name: On The Verge
+- 
+  txid:           fc9220025df5f2bf76fcda8f66bced4c95846e136ff3f5ff4c36fede3a5e3fc5
+  media-data: 
+    alexandria-media: 
+      torrent:   QmTHG1ieXUA9a8cEMzEAR9qC7B2DXMCtmZZdwYQhdJc4HZ
+      publisher: FAiWWyUEuXkxo7oQLWfD3oTWkHM6eu5JJH
+      timestamp: 1445935671000
+      type:      music
+      info: 
+        description: Tiny Human ISRCGBJPX1500151 Tiny Human (instrumental) ISRCGBJPX1500152 Published by Megaphonic Publishing Record label - Megaphonic Records copyright 2015 for information on use of sync please contact Info@imogenheap.com
+        year:        2015
+        title:       Tiny Human
+        extra-info: 
+          DHT Hash:        QmTHG1ieXUA9a8cEMzEAR9qC7B2DXMCtmZZdwYQhdJc4HZ
+          artist:          Imogen Heap
+          runtime:         260
+          tags:            Mycelia
+          company:         Megaphonic Records
+          element1: 
+            flac: Imogen_Heap_Tiny_Human.flac
+            mp3:  Imogen_Heap_Tiny_Human.mp3
+            name: Tiny Human
+          Bitcoin Address: 16diWTDN8DUxsX994WzyNAotVp36qBqXku
+          coverArt:        Imogen_Heap_Tiny_Human_cover.jpg
+          filename:        Imogen_Heap_Tiny_Human.mp3
+          pwyw:            1,0.6
+      payment: 
+        amount:    1,10,50
+        currency:  USD
+        pinners: 
+          disc_amount: 50
+          disc_thresh: 1000
+          free:        500
+        pricing: 
+          element1: 6,10,700,990
+        promoters: 10
+        sug_tip:   1,11,51
+        type:      tip
+      extras:    
+    signature:        H27r7UxUb8BozjEvV0v++nCyRI7S6yyroeKCJQpgU5NO3CP6FpXWs5kCxy8vhmMhbtpj/FMj+8s3+updw7g+bmE=
+  block:          1440095
+  publisher-name: Imogen Heap
+- 
+  txid:           9a0678726e073252011d3844eaa611f248823eefcbabef58102b5733f6f41b49
+  media-data: 
+    alexandria-media: 
+      torrent:   QmW3WSN2Y8hASFmF4eecn6hrLNrdAid7CyAiGUY8yCP8Ny
+      publisher: FF85vSYbc3ZTPHnAPduifKnxAevkfmL6V8
+      timestamp: 1449520971000
+      type:      video
+      info: 
+        description: Download and install Alexandria Librarian so you can pin this video to play it for free. MacOSX: http://alexandria.media/alexandria_librarian_v001a_102915_osx.dmg Windows: http://alexandria.media/alexandria_librarian_v001a_102915_win.zip Linux: http://alexandria.media/alexandria_librarian_v001a_102915_lin.zip
+        year:        2015
+        title:       25mbs 4k test with worlds largest rodent
+        extra-info: 
+          DHT Hash:        QmW3WSN2Y8hASFmF4eecn6hrLNrdAid7CyAiGUY8yCP8Ny
+          artist:          Nature
+          runtime:         20
+          Bitcoin Address: 14PVSYowaqYmzKB5TdJqeWUQngXudffy6Z
+          filename:        capybara-4k.mov
+          pwyw:            1,0
+      payment: 
+        amount:   1,5,25
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IHGF5E1zphGvoiZYV/pCHkn/bDpwXgYKaUHpVVuadthQujMt/ytHS9BvTVcBE9zuiZUeSnOL1Efvx4d+dP/ase0=
+  block:          1502324
+  publisher-name: blocktech1
+- 
+  txid:           254d9bc6179aba78f2c1b15b3ef297ca33bdac93a1bf04148813f5382691bc96
+  media-data: 
+    alexandria-media: 
+      torrent:   QmNrcxXH9PgHzEaFTQQNQRYNvUbLZXnyKueaVUV3C94fDN
+      publisher: FF85vSYbc3ZTPHnAPduifKnxAevkfmL6V8
+      timestamp: 1449592594000
+      type:      video
+      info: 
+        description: Alexandria's founder, Devon Read, demos a variety of features and explains a bit more about how the Decentralized Library of Alexandria works... ProTip - One way that you can directly support Alexandria is by installing Librarian and pointing your web browser at this URL: http://localhost:8079/api/ipfs/pin/add/QmNrcxXH9PgHzEaFTQQNQRYNvUbLZXnyKueaVUV3C94fDN to pin this video locally to help decentralize it storage and distribution further.
+        year:        2015
+        title:       Alexandria v0.5.1 alpha demo
+        extra-info: 
+          DHT Hash:        QmNrcxXH9PgHzEaFTQQNQRYNvUbLZXnyKueaVUV3C94fDN
+          artist:          Alexandria Council of Librarians
+          runtime:         768
+          tags:            Alexandria, demo, decentralized technology
+          company:         DLOA
+          Bitcoin Address: 1QGaG1GmPdSx8FxLSbgpegeKY7TyUqjoHf
+          filename:        alexandria_v051alpha_demo.m4v
+          posterFrame:     3.png
+      payment: 
+        amount:   1,10,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        IOpeBrtPdJO4XWTCAprqO1t/dk/M8pv48eByfc1DTu9+p+V7bCzLaD7dobvL/SdYJqpsEHnZNloA9mmLUUjh2Tw=
+  block:          1503073
+  publisher-name: blocktech1
+- 
+  txid:           7dea8445f42dd5f052ad664803da7e142a959d6e641cfae00eddff2eff38dff4
+  media-data: 
+    alexandria-media: 
+      torrent:   QmW3WSN2Y8hASFmF4eecn6hrLNrdAid7CyAiGUY8yCP8Ny
+      publisher: FF85vSYbc3ZTPHnAPduifKnxAevkfmL6V8
+      timestamp: 1449737194000
+      type:      video
+      info: 
+        description: Install and run Librarian and then visit this URL in your browser to pin this file. http://localhost:8079/api/ipfs/pin/add/QmW3WSN2Y8hASFmF4eecn6hrLNrdAid7CyAiGUY8yCP8Ny
+        year:        2015
+        title:       25mbs 4k test with worlds largest rodent
+        extra-info: 
+          DHT Hash:        QmW3WSN2Y8hASFmF4eecn6hrLNrdAid7CyAiGUY8yCP8Ny
+          artist:          Nature
+          runtime:         20
+          Bitcoin Address: 14PVSYowaqYmzKB5TdJqeWUQngXudffy6Z
+          filename:        capybara-4k.mov
+      payment: 
+        amount:   1,10,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        HyvIwXUkG/ffOhmSe0/cMsLuF8R78GqzhC+aAKDDraSeKeZqOQKpdJP9oTScm3xhEJqDSH/Ozvk6FjbUiErIjFU=
+  block:          1505030
+  publisher-name: blocktech1
+- 
+  txid:           0f7c84dd18884be0f27a80fd04ccad958f8bc976945bc0e8233be65a8820bb78
+  media-data: 
+    alexandria-media: 
+      torrent:   QmPZUckSCUhppmebsSKG5aj1RC1vNz5PWeaijsawFYGxFj
+      publisher: FFpgWy3FRP3DnXFjwzXWXPXpajFsDka3Cq
+      timestamp: 1450476038000
+      type:      video
+      info: 
+        description: http://ipfs.alexandria.media/ipfs/QmPZUckSCUhppmebsSKG5aj1RC1vNz5PWeaijsawFYGxFj/Prelude-Description.html
+        year:        2001
+        title:       Prelude to Hope, A Star Wars Fanfilm
+        extra-info: 
+          DHT Hash: QmPZUckSCUhppmebsSKG5aj1RC1vNz5PWeaijsawFYGxFj
+          artist:   Devon Read
+          runtime:  1294
+          company:  CCP
+          filename: prelude-to-hope-2001.m4v
+      payment:   null
+      extras:    
+    signature:        IPmQ9pBNeQepqjp48LQafnHjmGpzm/fkM21xifNqK/e/keghz4JUwPgLD8a4+wAXWJbCVHqCuiWZVSuV9pg7U4k=
+  block:          1515746
+  publisher-name: devo
+- 
+  txid:           a2410f371900b9ec5eab3719f23ee0a2c4fcf1e6775bda30afc73bbe1d5d8734
+  media-data: 
+    alexandria-media: 
+      torrent:   QmUJapDpxiZJgpL1vxVNhrNPyP89bguTmLWULkjaBuYmU1
+      publisher: FF85vSYbc3ZTPHnAPduifKnxAevkfmL6V8
+      timestamp: 1451489825000
+      type:      book
+      info: 
+        description: How to combine Bitcoin payment processing and charity
+        year:        2015
+        title:       How to combine Bitcoin payment processing and charity
+        extra-info: 
+          DHT Hash:        QmUJapDpxiZJgpL1vxVNhrNPyP89bguTmLWULkjaBuYmU1
+          artist:          SamBiohazard
+          Bitcoin Address: 1AqywTTPox5W8Vk15JbPMfkXvXXCAztxxQ
+          filename:        none
+      payment: 
+        amount:   10,25,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        ILWTUMYuzzAPocax5vUFLdrWcdjYwmYk/fNK2S1keEsTVUWu8kNwsU3v1bmf0Han+noo0+ICyFgG3faPKEXNSqw=
+  block:          1535969
+  publisher-name: blocktech1
+- 
+  txid:           5eec21c69c9df5f42770267e5af7904f6d1e8b40529f23efca0ee54eadcf540f
+  media-data: 
+    alexandria-media: 
+      torrent:   QmUYY6nLo7bKEjPPh82U6oHrsXUpF1uenZtzgpUUYdTkLf
+      publisher: F5rXXcBGZZk72UKUx6Zv6yLmiSrU72QNQ4
+      timestamp: 1457074556000
+      type:      video
+      info: 
+        description: Virtualize Logo in stereoscopic 3d at 50Mbit
+        year:        2016
+        title:       Virtualize
+        extra-info: 
+          DHT Hash:        QmUYY6nLo7bKEjPPh82U6oHrsXUpF1uenZtzgpUUYdTkLf
+          artist:          Virtualize
+          runtime:         35
+          Bitcoin Address: 1G94ESUafAnyGwv8Uxegokj2ej1zhvuaYb
+          collection:      Stereoscopic VR
+          filename:        VirtualizeLogo.mp4
+      payment: 
+        amount:   5,25,100
+        currency: USD
+        type:     tip
+      extras:    
+    signature:        ICMLVGblF4cweDt7pWuqBQSTUi3p6wHa70koMfLzCB5Fr8rHUbQ9tvfggEiupP/P60zBFbyWDHuuaioMh5VvdyU=
+  block:          1643867
+  publisher-name: varcrypt
