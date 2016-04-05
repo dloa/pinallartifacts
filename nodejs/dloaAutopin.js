@@ -1,20 +1,31 @@
 var request = require('request');
 var prettyj = require('prettyjson');
 
-request('http://libraryd.alexandria.media/alexandria/v1/media/get/all', function (error, response, body) {
+// dloaAutopin.js
+// Author:  Bill Gleim
+// twitter: @billgleim
+
+// Retrieve catalog contents from cloud server
+//request('http://libraryd.alexandria.media/alexandria/v1/media/get/all', function (error, response, body) {
+
+// Retrieve catalog contents from local server
+request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, response, body) {
   if (!error && response.statusCode == 200) {
 
     var options = {
       noColor: true
     };
 
-    // unparsed body (raw string)
+    // unparsed body (JSON string)
     //console.log(prettyj.render(body, options));
  
     jsonBody = JSON.parse(body)
 
+    // parsed body (pure JSON)
+    //console.log("%j", jsonBody);
+
     // parsed body (pretty JSON)
-    //console.log(prettyj.render(jsonBody, options));
+    console.log(prettyj.render(jsonBody, options));
 
     function validMultihash(string) {
       if (string) {
@@ -153,7 +164,7 @@ request('http://libraryd.alexandria.media/alexandria/v1/media/get/all', function
               }
             }
           }
-          filesToPin.forEach(console.log)
+          filesToPin.forEach(console.log);
         }
       }
     }
