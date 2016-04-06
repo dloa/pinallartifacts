@@ -1,6 +1,7 @@
 var ipfsApi = require('ipfs-api');
 var request = require('request');
 var prettyj = require('prettyjson');
+const exec  = require('child_process').exec;
 
 // dloaAutopin.js
 // Author:  Bill Gleim
@@ -34,9 +35,6 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
     function validMultihash(string) {
       if (string) {
         if (string[0] == "Q" && string[1] == "m") {
-          // initial IPFS integration test
-          ipfsCat(string);
-
           return true;
         }
       }
@@ -140,35 +138,35 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
           if (filename === "none") {
             // pin each field available
             
-            if (validMultihash(dhtHash))     filesToPin.push(dhtHash);
-            if (validMultihash(posterFrame)) filesToPin.push(posterFrame);
-            if (validMultihash(coverArt))    filesToPin.push(coverArt);
-            if (validMultihash(poster))      filesToPin.push(poster);
-            if (validMultihash(trailer))     filesToPin.push(trailer);
-            if (validMultihash(track01))     filesToPin.push(track01);
-            if (validMultihash(track02))     filesToPin.push(track02);
+            if (validMultihash(dhtHash))     ipfsPin(dhtHash);
+            if (validMultihash(posterFrame)) ipfsPin(posterFrame);
+            if (validMultihash(coverArt))    ipfsPin(coverArt);
+            if (validMultihash(poster))      ipfsPin(poster);
+            if (validMultihash(trailer))     ipfsPin(trailer);
+            if (validMultihash(track01))     ipfsPin(track01);
+            if (validMultihash(track02))     ipfsPin(track02);
  
           } else {
             // pin each field as a filename relative to the DHT hash
             if (validMultihash(dhtHash)) {
 
               if (posterFrame) {
-                filesToPin.push(dhtHash + "/" + posterFrame);
+                ipfsPin(dhtHash + "/" + posterFrame);
               }
               if (coverArt) {
-                filesToPin.push(dhtHash + "/" + coverArt);
+                ipfsPin(dhtHash + "/" + coverArt);
               }
               if (poster) {
-                filesToPin.push(dhtHash + "/" + poster);
+                ipfsPin(dhtHash + "/" + poster);
               }
               if (trailer) {
-                filesToPin.push(dhtHash + "/" + trailer);
+                ipfsPin(dhtHash + "/" + trailer);
               }
               if (track01) {
-                filesToPin.push(dhtHash + "/" + track01);
+                ipfsPin(dhtHash + "/" + track01);
               }
               if (track02) {
-                filesToPin.push(dhtHash + "/" + track02);
+                ipfsPin(dhtHash + "/" + track02);
               }
             }
           }
@@ -177,14 +175,17 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
       }
     }
 
-    function ipfsPin(files) {
-      ipfs.pin(files, function(err, res) {
-        if (err || !res) return console.error(err);
+    function ipfsPin(file) {
+      console.log(file);
 
-        res.forEach(function(file) {
-          console.log(file.Hash);
-          console.log(file.Hash);
-	}
+      var cmd = 'ipfs pin add ${file}'
+
+      exec(cmd, function(error, stdout, stderr) {
+        console.log(`stdout: ${stdout}`);
+        console.log(`stderr: ${stderr}`);
+        if (error !== null) {
+          console.log(`exec error: ${error}`);
+        }
       });
     }
 
