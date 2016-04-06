@@ -178,8 +178,8 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
       var cmd = 'ipfs pin add ${file}'
 
       exec(cmd, function(error, stdout, stderr) {
-        console.log(`stdout: ${stdout}`);
-        console.log(`stderr: ${stderr}`);
+        console.log('stdout: ${stdout}');
+        console.log('stderr: ${stderr}');
         if (error !== null) {
           console.log(`exec error: ${error}`);
         }
