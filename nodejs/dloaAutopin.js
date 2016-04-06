@@ -21,16 +21,7 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
       noColor: true
     };
 
-    // unparsed body (JSON string)
-    //console.log(prettyj.render(body, options));
- 
     jsonBody = JSON.parse(body)
-
-    // parsed body (pure JSON)
-    //console.log("%j", jsonBody);
-
-    // parsed body (pretty JSON)
-    //console.log(prettyj.render(jsonBody, options));
 
     function validMultihash(string) {
       if (string) {
@@ -175,24 +166,6 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
     // used to direct-pin (disabled) or export files to pin (enabled)
     function ipfsPin(file) {
       console.log(file);
-
-
-      // two direct-pin implementations do not provide a confirmation
-      /*
-      ipfs.pin.add(file)
-        .then(function(pinResponse) {
-          console.log('PIN RESPONSE: ', pinResponse);
-        }); 
-
-      var cmd = 'ipfs pin add ${file}'
-      exec(cmd, function(error, stdout, stderr) {
-        console.log('stdout: ${stdout}');
-        console.log('stderr: ${stderr}');
-        if (error !== null) {
-          console.log(`exec error: ${error}`);
-        }
-      });
-      */
     }
 
     // add this within verification of multihash 
@@ -204,9 +177,6 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
           console.log('IPFS CAT RESPONSE: ', catResponse);
         }); 
     }
-
-    // examine catalog item as whole
-    //jsonBody.forEach(displayCatalogItemInfo);
 
     // export catalog items in filesToPin format
     jsonBody.forEach(pinCatalogItemInfo);
