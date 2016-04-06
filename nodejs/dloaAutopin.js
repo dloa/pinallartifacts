@@ -133,8 +133,6 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
         var track02     = extraInfo['track02'];
 
         if (filename) {
-          var filesToPin = [];
-
           if (filename === "none") {
             // pin each field available
             
@@ -170,7 +168,6 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
               }
             }
           }
-          //filesToPin.forEach(console.log);
         }
       }
     }
