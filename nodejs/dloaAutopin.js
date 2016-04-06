@@ -1,9 +1,13 @@
+var ipfsApi = require('ipfs-api');
 var request = require('request');
 var prettyj = require('prettyjson');
 
 // dloaAutopin.js
 // Author:  Bill Gleim
 // twitter: @billgleim
+
+// pin to IPFS via the node-ipfs-api global variable providing access
+var ipfs = ipfsApi('localhost', '8080', {protocol: 'http'});
 
 // Retrieve catalog contents from cloud server
 //request('http://libraryd.alexandria.media/alexandria/v1/media/get/all', function (error, response, body) {
@@ -30,6 +34,9 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
     function validMultihash(string) {
       if (string) {
         if (string[0] == "Q" && string[1] == "m") {
+          // initial IPFS integration test
+          ipfsCat(string);
+
           return true;
         }
       }
@@ -144,6 +151,7 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
           } else {
             // pin each field as a filename relative to the DHT hash
             if (validMultihash(dhtHash)) {
+
               if (posterFrame) {
                 filesToPin.push(dhtHash + "/" + posterFrame);
               }
@@ -164,9 +172,28 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
               }
             }
           }
-          filesToPin.forEach(console.log);
+          //filesToPin.forEach(console.log);
         }
       }
+    }
+
+    function ipfsPin(files) {
+      ipfs.pin(files, function(err, res) {
+        if (err || !res) return console.error(err);
+
+        res.forEach(function(file) {
+          console.log(file.Hash);
+          console.log(file.Hash);
+	}
+      });
+    }
+
+    function ipfsCat(dhtContentToPin) {
+      console.log("PRIOR TO IPFS CAT ATTEMPT with hash ", dhtContentToPin);
+      ipfs.cat(dhtContentToPin)
+        .then(function(catResponse) {
+          console.log('IPFS CAT RESPONSE: ', catResponse);
+        }); 
     }
 
     jsonBody.forEach(displayCatalogItemInfo);
