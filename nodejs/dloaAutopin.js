@@ -30,7 +30,7 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
     //console.log("%j", jsonBody);
 
     // parsed body (pretty JSON)
-    console.log(prettyj.render(jsonBody, options));
+    //console.log(prettyj.render(jsonBody, options));
 
     function validMultihash(string) {
       if (string) {
@@ -119,7 +119,7 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
       }
     }
         
-    function displayCatalogItemInfoToPin(item) {
+    function pinCatalogItemInfo(item) {
       if (item) {
         var extraInfo = item['media-data']['alexandria-media']['info']['extra-info'];
         var filename  = extraInfo['filename'];
@@ -172,11 +172,19 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
       }
     }
 
+    // used to direct-pin (disabled) or export files to pin (enabled)
     function ipfsPin(file) {
       console.log(file);
 
-      var cmd = 'ipfs pin add ${file}'
 
+      // two direct-pin implementations do not provide a confirmation
+      /*
+      ipfs.pin.add(file)
+        .then(function(pinResponse) {
+          console.log('PIN RESPONSE: ', pinResponse);
+        }); 
+
+      var cmd = 'ipfs pin add ${file}'
       exec(cmd, function(error, stdout, stderr) {
         console.log('stdout: ${stdout}');
         console.log('stderr: ${stderr}');
@@ -184,8 +192,11 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
           console.log(`exec error: ${error}`);
         }
       });
+      */
     }
 
+    // add this within verification of multihash 
+    // to display IPFS view of each piece of content
     function ipfsCat(dhtContentToPin) {
       console.log("PRIOR TO IPFS CAT ATTEMPT with hash ", dhtContentToPin);
       ipfs.cat(dhtContentToPin)
@@ -194,9 +205,11 @@ request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, r
         }); 
     }
 
-    jsonBody.forEach(displayCatalogItemInfo);
+    // examine catalog item as whole
+    //jsonBody.forEach(displayCatalogItemInfo);
 
-    jsonBody.forEach(displayCatalogItemInfoToPin);
+    // export catalog items in filesToPin format
+    jsonBody.forEach(pinCatalogItemInfo);
 
   }
 })
