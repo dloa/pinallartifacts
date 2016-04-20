@@ -15,7 +15,15 @@ go install go/pinfilesrm/pinfilesrm.go
 ```
 
 ## Usage
+
+# Pin files:
 ```
 cd nodejs/
 node dloaAutopin.js | pinfiles
+```
+
+# Un-pin files:
+```
+cd nodejs/
+node dloaAutopin.js | pinfilesrm
 ```
