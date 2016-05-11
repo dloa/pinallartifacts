@@ -19,7 +19,8 @@ func main() {
 			fmt.Println(string(out))
 		}
 		if cmderr != nil {
-			log.Fatal(cmderr)
+			log.Println(cmderr)
+			continue
 		}
 	}
 	if err := scanner.Err(); err != nil {
