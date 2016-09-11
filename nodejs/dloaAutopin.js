@@ -11,7 +11,7 @@ const exec  = require('child_process').exec;
 var ipfs = ipfsApi('localhost', '8080', {protocol: 'http'});
 
 // Retrieve catalog contents from cloud server
-request('https://libraryd.alexandria.io/alexandria/v1/media/get/all', function (error, response, body) {
+request('https://api.alexandria.io/alexandria/v1/media/get/all', function (error, response, body) {
 
 // Retrieve catalog contents from local server
 //request('http://127.0.0.1:41289/alexandria/v1/media/get/all', function (error, response, body) {
