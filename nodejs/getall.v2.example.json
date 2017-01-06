@@ -31,4 +31,114 @@
     "txid": "c2596badf0c5f4313d08d34e86ce3056aef63f05888615342e899c1a237384b7",
     "block": 1397263,
     "publisher-name": "Imogen Heap"
-}]
+},
+{
+    "block": 2032068,
+    "oip-041": {
+      "artifact": {
+        "info": {
+          "ExtraInfoString": "",
+          "description": "For when the blood stain just won't come off your Oscar and the paparazzi are breathing down your door. ",
+          "extraInfo": {
+            "artist": "Mind to Matter",
+            "company": "Adam B. Levine",
+            "composers": [
+              "Adam B. Levine"
+            ],
+            "copyright": "Adam B. Levine, 2016",
+            "tags": [
+              "electronic",
+              "pithy",
+              "minor"
+            ],
+            "usageProhibitions": "",
+            "usageRights": ""
+          },
+          "title": "A Stab in the Dark",
+          "year": 2016
+        },
+        "payment": {
+          "addresses": [
+            {
+              "address": "1Dfxt9XrweFjTkTc2qhM5hGPoXWdbRcaWP",
+              "token": "BTC"
+            }
+          ],
+          "fiat": "USD",
+          "scale": "100:1",
+          "sugTip": [
+            50
+          ],
+          "tokens": {
+            "LITTLECOLOR": 1,
+            "MTMCOLLECTOR": 1,
+            "MTMPRODUCER": 1
+          }
+        },
+        "publisher": "FQV7FCrnqSZH98zBQLaSWa6NVyBFzh7jtx",
+        "storage": {
+          "files": [
+            {
+              "disallowBuy": 0,
+              "disallowPlay": 0,
+              "dname": "A Stab in the Dark",
+              "fname": "8b1d1a525a4a3216d1b92128ffe6646cfadfd7f4.mp3",
+              "fsize": 5262251,
+              "minBuy": 0,
+              "minPlay": 10,
+              "promo": 0,
+              "retail": 0,
+              "storage": {
+                "files": null
+              },
+              "sugBuy": 0,
+              "sugPlay": 25,
+              "tokenlyID": "c8e420a7-720a-4866-908a-d006d56f7078",
+              "type": "music"
+            },
+            {
+              "disallowBuy": 0,
+              "disallowPlay": 0,
+              "dname": "Cover Art",
+              "fname": "c48c566f70f064b37d6eec95cfb2f667eb1126f7.jpg",
+              "fsize": 484093,
+              "minBuy": 0,
+              "minPlay": 0,
+              "promo": 0,
+              "retail": 0,
+              "storage": {
+                "files": null
+              },
+              "sugBuy": 0,
+              "sugPlay": 0,
+              "type": "coverArt"
+            }
+          ],
+          "location": "QmZ4mv4TxsezMo6UqXcAcjSPXHPcyU8GyH5Q5J7XWAvCmA",
+          "network": "IPFS"
+        },
+        "timestamp": 1483732381,
+        "type": "music"
+      },
+      "editArtifact": {
+        "patch": null,
+        "timestamp": 0,
+        "txid": ""
+      },
+      "signature": "H1CAnp4NwZFw8gjSUE27ZlMBA9kH4RleT4lfQsLn2to4PV2iHjaQR27o1QRRrW51qoCMz5yhAWZvyeTXpb3EF/k=",
+      "transferArtifact": {
+        "from": "",
+        "timestamp": 0,
+        "to": "",
+        "txid": ""
+      }
+    },
+    "tags": "electronic,pithy,minor",
+    "timestamp": 1483732381,
+    "title": "A Stab in the Dark",
+    "txid": "fddb16d35883f95989400dce3e3661f8524413ba566cfbaabba66ade42181c73",
+    "type": "music",
+    "year": 2016,
+    "publisher": "FQV7FCrnqSZH98zBQLaSWa6NVyBFzh7jtx"
+  }
+]
