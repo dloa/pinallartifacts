@@ -1,0 +1,16 @@
+{
+  "name": "pinbotwizard",
+  "version": "0.1.0",
+  "description": "Retrieve all files to ipfs pin for Library of Alexandria.",
+  "main": "dloaAutopin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Decentralized Library of Alexandris",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs-api": "^12.1.2",
+    "prettyjson": "^1.2.1",
+    "request": "^2.79.0"
+  }
+}
