@@ -112,8 +112,33 @@ request(mediaAllUrlV2, function (error, response, body) {
         }
       }
     }
-        
+
     function pinCatalogItemInfo(item) {
+      if (item['media-data'] && item['media-data']['alexandria-media']) {
+        pinAlexandriaMedia(item);
+      } else if (item['oip-041']) {
+        pinOip041(item['oip-041']);
+      }
+    }
+
+    function pinOip041(oipItem) {
+      let dhtHash = oipItem.artifact.storage.location;
+      let files = oipItem.artifact.storage.files;
+
+      if (!files) {
+        ipfsPin(`${dhtHash}`);
+        return
+      }
+
+      files.forEach((e) => {
+          let fname = e.fname;
+          if (fname) {
+            ipfsPin(`${dhtHash}/${fname}`);
+          }
+      });    
+    }
+
+    function pinAlexandriaMedia(item) {
       if (item) {
         var extraInfo = item['media-data']['alexandria-media']['info']['extra-info'];
         var filename  = extraInfo['filename'];
